@@ -52,3 +52,4 @@ https://lnkd.in/eeSmUAY
 # 5) NLP
 
   i) https://shravan-kuchkula.github.io/document_similarity/#
+ ii) https://www.thetopsites.net/article/54771427.shtml
