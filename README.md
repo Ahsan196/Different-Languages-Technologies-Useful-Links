@@ -28,14 +28,14 @@
    iv) Mathematics for Machine Learning
         https://lnkd.in/fSiWYkg
 
-    v) Data Science Cheat Sheet
+   v)  Data Science Cheat Sheet
         https://lnkd.in/fkscYn5
 
    vi) Top 40 Python Interview Q&A
         https://lnkd.in/fYu7g87
 
-7. R Programming Cheat Sheet
-https://lnkd.in/fGqdx87
+  vii) R Programming Cheat Sheet
+        https://lnkd.in/fGqdx87
 
 8. Machine Learning: 112 Pages of Insightful Notes
 https://lnkd.in/f2mDPuj
@@ -50,4 +50,5 @@ https://lnkd.in/fVfdazH
 https://lnkd.in/eeSmUAY 
 
 # 5) NLP
+
   i) https://shravan-kuchkula.github.io/document_similarity/#
