@@ -25,14 +25,14 @@
   iii) 50 Years of Data Science
         https://lnkd.in/fKGAUUJ
 
-4. Mathematics for Machine Learning
-https://lnkd.in/fSiWYkg
+   iv) Mathematics for Machine Learning
+        https://lnkd.in/fSiWYkg
 
-5. Data Science Cheat Sheet
-https://lnkd.in/fkscYn5
+    v) Data Science Cheat Sheet
+        https://lnkd.in/fkscYn5
 
-6. Top 40 Python Interview Q&A
-https://lnkd.in/fYu7g87
+   vi) Top 40 Python Interview Q&A
+        https://lnkd.in/fYu7g87
 
 7. R Programming Cheat Sheet
 https://lnkd.in/fGqdx87
@@ -48,3 +48,6 @@ https://lnkd.in/fVfdazH
 
 11. Coursera Deep Learning Course Notes
 https://lnkd.in/eeSmUAY 
+
+# 5) NLP
+  i) https://shravan-kuchkula.github.io/document_similarity/#
