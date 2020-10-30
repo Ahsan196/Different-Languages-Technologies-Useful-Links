@@ -3,6 +3,8 @@
   i) https://linuxconfig.org/how-to-parse-data-from-json-into-python
   
  ii) https://programmersought.com/article/14282670419/
+ 
+iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-in-python
 
 # 2) React/ReactJS/React.js
    
@@ -54,3 +56,5 @@ https://lnkd.in/eeSmUAY
   i) https://shravan-kuchkula.github.io/document_similarity/#
   
  ii) https://www.thetopsites.net/article/54771427.shtml
+ 
+iii) https://www.tensorflow.org/hub/common_issues
