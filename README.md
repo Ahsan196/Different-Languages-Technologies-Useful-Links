@@ -62,3 +62,7 @@ iii) https://www.tensorflow.org/hub/common_issues
 # 6) ASP.NET
 
    i) https://medium.com/@obhasha/asp-net-webapi-1-vs-webapi-2-1806e4c28c65
+
+# 7) Firebase
+
+   i) https://stackoverflow.com/questions/37369778/firebase-login-using-power-shell
