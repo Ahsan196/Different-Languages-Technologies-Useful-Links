@@ -45,11 +45,11 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
    ix) Time Series Analysis in Python
          https://lnkd.in/fe6h_Vg
 
-    x) Andrew Ng - Complete Strategy for ML & AI
-          https://lnkd.in/fVfdazH
+   x) Andrew Ng - Complete Strategy for ML & AI
+       https://lnkd.in/fVfdazH
 
-11. Coursera Deep Learning Course Notes
-https://lnkd.in/eeSmUAY 
+ xii) Coursera Deep Learning Course Notes
+       https://lnkd.in/eeSmUAY 
 
 # 5) NLP
 
@@ -66,3 +66,7 @@ iii) https://www.tensorflow.org/hub/common_issues
 # 7) Firebase
 
    i) https://stackoverflow.com/questions/37369778/firebase-login-using-power-shell
+   
+# 8) PowerShell
+
+   i) https://www.howtogeek.com/114344/5-cmdlets-to-get-you-started-with-powershell/
