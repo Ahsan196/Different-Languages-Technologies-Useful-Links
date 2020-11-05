@@ -70,3 +70,7 @@ iii) https://www.tensorflow.org/hub/common_issues
 # 8) PowerShell
 
    i) https://www.howtogeek.com/114344/5-cmdlets-to-get-you-started-with-powershell/
+
+# 9) Google Colab
+
+   i) https://stackoverflow.com/questions/51194303/how-to-run-a-python-script-in-a-py-file-from-a-google-colab-notebook 
