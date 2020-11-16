@@ -50,6 +50,7 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
 
  xii) Coursera Deep Learning Course Notes
        https://lnkd.in/eeSmUAY 
+xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-model-for-image-classification-b850ca4428d4
 
 # 5) NLP
 
