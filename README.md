@@ -16,6 +16,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
    
   ii) https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910#:~:text=Named%20Export%3A%20(export),name%20of%20the%20exported%20module
   
+ iii) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
+  
 # 4) Data Science
 
    i) Data Science Interview Questions - 48 pages
