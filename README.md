@@ -78,3 +78,7 @@ iii) https://www.tensorflow.org/hub/common_issues
 # 9) Google Colab
 
    i) https://stackoverflow.com/questions/51194303/how-to-run-a-python-script-in-a-py-file-from-a-google-colab-notebook 
+
+# 10) Angular
+
+   i) https://tburleson-layouts-demos.firebaseapp.com/#/docs
