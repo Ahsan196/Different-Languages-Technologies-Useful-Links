@@ -6,6 +6,8 @@
  
 iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-in-python
 
+ iv) https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+
 # 2) React/ReactJS/React.js
    
    i) https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/
