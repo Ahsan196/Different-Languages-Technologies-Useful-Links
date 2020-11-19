@@ -84,3 +84,7 @@ iii) https://www.tensorflow.org/hub/common_issues
 # 10) Angular
 
    i) https://tburleson-layouts-demos.firebaseapp.com/#/docs
+   
+  ii) https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
+  
+ iii) https://levelup.gitconnected.com/export-data-to-excel-sheet-in-angular-8-7a8e0342643d
