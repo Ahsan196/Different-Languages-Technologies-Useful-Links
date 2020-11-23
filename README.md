@@ -94,3 +94,5 @@ iii) https://www.tensorflow.org/hub/common_issues
    v) https://stackoverflow.com/questions/51949273/how-to-get-row-data-onselect-event-in-ngx-datatable
    
   vi) https://stackoverflow.com/questions/51704888/remove-rows-with-ngx-datatable
+
+ vii) http://embed.plnkr.co/gfr9IDIAdXEy9Am6B5PB/
