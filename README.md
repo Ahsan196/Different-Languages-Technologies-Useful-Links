@@ -88,3 +88,9 @@ iii) https://www.tensorflow.org/hub/common_issues
   ii) https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
   
  iii) https://levelup.gitconnected.com/export-data-to-excel-sheet-in-angular-8-7a8e0342643d
+ 
+  iv) https://stackoverflow.com/questions/44580387/how-to-change-material-icon-on-click-event-with-angular2-4-material
+  
+   v) https://stackoverflow.com/questions/51949273/how-to-get-row-data-onselect-event-in-ngx-datatable
+   
+  vi) https://stackoverflow.com/questions/51704888/remove-rows-with-ngx-datatable
