@@ -102,6 +102,8 @@ iii) https://www.tensorflow.org/hub/common_issues
  vii) http://embed.plnkr.co/gfr9IDIAdXEy9Am6B5PB/
  
 viii) https://www.npmjs.com/package/ngx-csv
+
+  ix) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
  
 # 11) Material Icons
 
