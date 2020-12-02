@@ -103,3 +103,6 @@ iii) https://www.tensorflow.org/hub/common_issues
  
 viii) https://www.npmjs.com/package/ngx-csv
  
+# 11) Material Icons
+
+   i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
