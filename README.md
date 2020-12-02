@@ -104,6 +104,8 @@ iii) https://www.tensorflow.org/hub/common_issues
 viii) https://www.npmjs.com/package/ngx-csv
 
   ix) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
+  
+   x) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
  
 # 11) Material Icons
 
