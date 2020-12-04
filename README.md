@@ -114,6 +114,8 @@ viii) https://www.npmjs.com/package/ngx-csv
  xii) https://www.npmjs.com/package/angular-onscreen-material-keyboard
  
 xiii) https://virtual-keyboard.js.org/angular/
+
+xiv) https://www.techiediaries.com/angular-material-dialogs/
  
 # 11) Material Icons
 
