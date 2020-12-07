@@ -118,6 +118,8 @@ xiii) https://virtual-keyboard.js.org/angular/
 xiv) https://www.techiediaries.com/angular-material-dialogs/
 
 xv) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.component.ts
+
+  xvi) https://www.npmjs.com/package/ngx-indexed-db
  
 # 11) Material Icons
 
