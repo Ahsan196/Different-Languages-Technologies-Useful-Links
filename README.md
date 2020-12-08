@@ -119,7 +119,9 @@ xiv) https://www.techiediaries.com/angular-material-dialogs/
 
 xv) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.component.ts
 
-  xvi) https://www.npmjs.com/package/ngx-indexed-db
+xvi) https://www.npmjs.com/package/ngx-indexed-db
+  
+xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
  
 # 11) Material Icons
 
