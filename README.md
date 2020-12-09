@@ -23,6 +23,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
  iv) https://www.geeksforgeeks.org/number-validation-in-javascript/
  
  v) https://www.w3resource.com/javascript/form/all-numbers.php
+ 
+ vi) https://www.dotnetperls.com/object-js
   
 # 4) Data Science
 
