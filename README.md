@@ -112,6 +112,8 @@ viii) https://www.npmjs.com/package/ngx-csv
    x) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
    
   xi) https://blog.angular-university.io/angular-material-dialog/
+  
+  xii)https://www.npmjs.com/package/ngx-indexed-db
    
   ### On Screen Keyboard
   
