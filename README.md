@@ -25,6 +25,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
  v) https://www.w3resource.com/javascript/form/all-numbers.php
  
  vi) https://www.dotnetperls.com/object-js
+ 
+ vii) https://stackoverflow.com/questions/31242701/how-to-check-input-value-has-only-numbers-in-angular
   
 # 4) Data Science
 
