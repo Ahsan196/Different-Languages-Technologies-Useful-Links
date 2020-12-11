@@ -65,6 +65,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
        
 xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-model-for-image-classification-b850ca4428d4
 
+xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb
+
 # 5) NLP
 
   i) https://shravan-kuchkula.github.io/document_similarity/#
@@ -136,3 +138,7 @@ xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
 # 12) Android
 
    i) https://github.com/felixpalmer/android-visualizer
+
+# 13) NPM Packages
+
+i) https://www.npmjs.com/package/magic-wand-tool
