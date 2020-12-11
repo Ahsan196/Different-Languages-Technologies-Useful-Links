@@ -142,3 +142,7 @@ xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
 # 13) NPM Packages
 
 i) https://www.npmjs.com/package/magic-wand-tool
+
+# 14) Graphic Designing
+
+i) https://www.gimp.org/
