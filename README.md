@@ -132,3 +132,7 @@ xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
 # 11) Material Icons
 
    i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
+   
+# 12) Android
+
+   i) https://github.com/felixpalmer/android-visualizer
