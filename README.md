@@ -27,6 +27,10 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
  vi) https://www.dotnetperls.com/object-js
  
  vii) https://stackoverflow.com/questions/31242701/how-to-check-input-value-has-only-numbers-in-angular
+ 
+ viii) https://stackoverflow.com/questions/4292468/javascript-regex-remove-text-between-parentheses
+ 
+ ix) https://stackoverflow.com/questions/12559208/how-to-remove-comma-from-number-which-comes-dynamically-in-tpl-file
   
 # 4) Data Science
 
