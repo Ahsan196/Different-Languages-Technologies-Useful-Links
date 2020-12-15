@@ -122,6 +122,8 @@ viii) https://www.npmjs.com/package/ngx-csv
   xi) https://blog.angular-university.io/angular-material-dialog/
   
   xii)https://www.npmjs.com/package/ngx-indexed-db
+  
+  xiii) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
    
   ### On Screen Keyboard
   
