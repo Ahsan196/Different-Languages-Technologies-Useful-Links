@@ -155,3 +155,8 @@ i) https://www.npmjs.com/package/magic-wand-tool
 # 14) Graphic Designing
 
 i) https://www.gimp.org/
+
+# 15) Flutter
+
+ i) https://pub.dev/packages/flutter_colorpicker
+ii) https://medium.com/super-declarative/flutter-color-picker-widget-workshop-a6de6f9cb477
