@@ -138,6 +138,8 @@ xv) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.componen
 xvi) https://www.npmjs.com/package/ngx-indexed-db
   
 xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
+
+xviii) https://stackoverflow.com/questions/52143052/how-to-manually-set-focus-on-mat-form-field-in-angular-6/54230643#54230643
  
 # 11) Material Icons
 
