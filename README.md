@@ -142,6 +142,8 @@ xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
 xviii) https://stackoverflow.com/questions/52143052/how-to-manually-set-focus-on-mat-form-field-in-angular-6/54230643#54230643
 
 xix) https://forums.meteor.com/t/fixed-trouble-integrating-accounting-js-into-a-1-3-project/20736
+
+ xx) https://www.npmjs.com/package/accounting-js 
  
 # 11) Material Icons
 
