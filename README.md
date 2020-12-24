@@ -145,6 +145,8 @@ xix) https://forums.meteor.com/t/fixed-trouble-integrating-accounting-js-into-a-
 
  xx) https://www.npmjs.com/package/accounting-js 
  
+xxi) https://stackoverflow.com/questions/42584000/format-float-double-with-angular 
+ 
 # 11) Material Icons
 
    i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
