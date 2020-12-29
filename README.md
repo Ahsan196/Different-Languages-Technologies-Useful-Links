@@ -148,6 +148,8 @@ xix) https://forums.meteor.com/t/fixed-trouble-integrating-accounting-js-into-a-
 xxi) https://stackoverflow.com/questions/42584000/format-float-double-with-angular 
 
 xxii) https://gsferreira.com/archive/2015/02/angularjs-input-number-with-two-decimal-places/
+
+xxiii) https://oamatech.com/javascript-remove-comma-from-string/
  
 # 11) Material Icons
 
