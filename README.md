@@ -150,6 +150,8 @@ xxi) https://stackoverflow.com/questions/42584000/format-float-double-with-angul
 xxii) https://gsferreira.com/archive/2015/02/angularjs-input-number-with-two-decimal-places/
 
 xxiii) https://oamatech.com/javascript-remove-comma-from-string/
+
+xxiv) https://codepen.io/AironRo/pen/GZNKXR
  
 # 11) Material Icons
 
