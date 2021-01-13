@@ -158,6 +158,8 @@ xxv) https://www.linkedin.com/pulse/angular-constructor-vs-ngoninit-madhumati-ho
 xxvi) https://stackoverflow.com/questions/13329485/what-does-mvw-stand-for
 
 xxvii) https://stackoverflow.com/questions/37159827/is-there-any-alternative-for-ng-disabled-in-angular2
+
+xxviii) https://www.codegrepper.com/code-examples/delphi/angular+9+how+to+routereusestrategy+to+refresh+component
  
 # 11) Material Icons
 
