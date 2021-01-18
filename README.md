@@ -161,6 +161,7 @@ xxvii) https://stackoverflow.com/questions/37159827/is-there-any-alternative-for
 
 xxviii) https://www.codegrepper.com/code-examples/delphi/angular+9+how+to+routereusestrategy+to+refresh+component
  
+xxix) https://www.cleveroad.com/blog/angular-vs-react#:~:text=React%20is%20better%20than%20Angular%20due%20to%20it's%20virtual%20DOM,existing%20solutions%20they%20can%20use.
 # 11) Material Icons
 
    i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
