@@ -164,6 +164,8 @@ xxviii) https://www.codegrepper.com/code-examples/delphi/angular+9+how+to+router
 xxix) https://www.cleveroad.com/blog/angular-vs-react#:~:text=React%20is%20better%20than%20Angular%20due%20to%20it's%20virtual%20DOM,existing%20solutions%20they%20can%20use.
 
 xxx) https://medium.com/@anilreddya/customizing-angular-mat-autocomplete-to-handle-a-million-records-f85ac4f33df4
+
+xxxi)https://stackoverflow.com/questions/42157408/alternative-to-includes
 # 11) Material Icons
 
    i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
