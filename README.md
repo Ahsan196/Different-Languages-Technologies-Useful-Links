@@ -33,6 +33,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
  ix) https://stackoverflow.com/questions/12559208/how-to-remove-comma-from-number-which-comes-dynamically-in-tpl-file
  
  x) https://stackoverflow.com/questions/27465054/combing-javascript-regex/27465069#27465069
+ 
+xi) https://www.digitalocean.com/community/tutorials/js-capitalizing-strings
   
 # 4) Data Science
 
