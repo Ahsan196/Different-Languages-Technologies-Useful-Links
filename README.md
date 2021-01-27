@@ -14,27 +14,29 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
 
 # 3) Javascript
    
-   i) https://scotch.io/courses/10-need-to-know-javascript-concepts
+   1) https://scotch.io/courses/10-need-to-know-javascript-concepts
    
-  ii) https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910#:~:text=Named%20Export%3A%20(export),name%20of%20the%20exported%20module
+   2) https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910#:~:text=Named%20Export%3A%20(export),name%20of%20the%20exported%20module
   
- iii) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
+   3) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
  
- iv) https://www.geeksforgeeks.org/number-validation-in-javascript/
+   4) https://www.geeksforgeeks.org/number-validation-in-javascript/
  
- v) https://www.w3resource.com/javascript/form/all-numbers.php
+   5) https://www.w3resource.com/javascript/form/all-numbers.php
  
- vi) https://www.dotnetperls.com/object-js
+   6) https://www.dotnetperls.com/object-js
  
- vii) https://stackoverflow.com/questions/31242701/how-to-check-input-value-has-only-numbers-in-angular
+   7) https://stackoverflow.com/questions/31242701/how-to-check-input-value-has-only-numbers-in-angular
  
- viii) https://stackoverflow.com/questions/4292468/javascript-regex-remove-text-between-parentheses
+   8) https://stackoverflow.com/questions/4292468/javascript-regex-remove-text-between-parentheses
  
- ix) https://stackoverflow.com/questions/12559208/how-to-remove-comma-from-number-which-comes-dynamically-in-tpl-file
+   9) https://stackoverflow.com/questions/12559208/how-to-remove-comma-from-number-which-comes-dynamically-in-tpl-file
  
- x) https://stackoverflow.com/questions/27465054/combing-javascript-regex/27465069#27465069
+  10) https://stackoverflow.com/questions/27465054/combing-javascript-regex/27465069#27465069
  
-xi) https://www.digitalocean.com/community/tutorials/js-capitalizing-strings
+  11) https://www.digitalocean.com/community/tutorials/js-capitalizing-strings
+
+  12) https://medium.com/front-end-weekly/3-things-you-didnt-know-about-the-foreach-loop-in-js-ff02cec465b1#:~:text=official%20MDN%20docs%3A-,There%20is%20no%20way%20to%20stop%20or%20break%20a%20forEach,method%20is%20the%20wrong%20tool.
   
 # 4) Data Science
 
