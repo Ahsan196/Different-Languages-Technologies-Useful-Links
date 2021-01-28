@@ -199,3 +199,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 # 17) jQuery-Ajax
 
 1) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
+
+# 18) jQuery
+
+1) https://stackoverflow.com/questions/8948785/check-display-error-message-for-an-empty-text-field
