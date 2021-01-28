@@ -38,6 +38,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
 
   12) https://medium.com/front-end-weekly/3-things-you-didnt-know-about-the-foreach-loop-in-js-ff02cec465b1#:~:text=official%20MDN%20docs%3A-,There%20is%20no%20way%20to%20stop%20or%20break%20a%20forEach,method%20is%20the%20wrong%20tool.
   
+  13) https://www.golangprograms.com/example-to-take-user-input-and-display-on-screen-using-javascript.html
+  
 # 4) Data Science
 
    i) Data Science Interview Questions - 48 pages
