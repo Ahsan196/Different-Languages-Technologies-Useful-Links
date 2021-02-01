@@ -205,6 +205,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 
 1) https://stackoverflow.com/questions/8948785/check-display-error-message-for-an-empty-text-field
 2) https://stackoverflow.com/questions/16493280/close-bootstrap-modal
+3) https://www.itsolutionstuff.com/post/jquery-how-to-use-radio-button-change-eventexample.html
 
 
 # 19) API
