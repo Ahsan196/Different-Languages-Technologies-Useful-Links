@@ -118,18 +118,16 @@ iii) https://www.tensorflow.org/hub/common_issues
   vi) https://stackoverflow.com/questions/51704888/remove-rows-with-ngx-datatable
 
  vii) http://embed.plnkr.co/gfr9IDIAdXEy9Am6B5PB/
- 
-viii) https://www.npmjs.com/package/ngx-csv
 
-  ix) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
+  8) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
   
-   x) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
+  9) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
    
-  xi) https://blog.angular-university.io/angular-material-dialog/
+  10) https://blog.angular-university.io/angular-material-dialog/
   
-  xii)https://www.npmjs.com/package/ngx-indexed-db
+  11)https://www.npmjs.com/package/ngx-indexed-db
   
-  xiii) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
+  12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
    
   ### On Screen Keyboard
   
@@ -183,7 +181,8 @@ xxxi)https://stackoverflow.com/questions/42157408/alternative-to-includes
 
 # 13) NPM Packages
 
-i) https://www.npmjs.com/package/magic-wand-tool
+1) https://www.npmjs.com/package/magic-wand-tool
+2) https://www.npmjs.com/package/ngx-csv
 
 # 14) Graphic Designing
 
