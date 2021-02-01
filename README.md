@@ -206,3 +206,8 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 
 1) https://stackoverflow.com/questions/8948785/check-display-error-message-for-an-empty-text-field
 2) https://stackoverflow.com/questions/16493280/close-bootstrap-modal
+
+
+# 19) API
+
+1) https://dzone.com/articles/difference-between-rest-and-soap-api#:~:text=What%20Is%20a%20SOAP%20API,%2C%20leads%2C%20and%20custom%20objects.
