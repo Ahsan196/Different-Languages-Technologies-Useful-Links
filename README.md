@@ -130,6 +130,8 @@ iii) https://www.tensorflow.org/hub/common_issues
   11)https://www.npmjs.com/package/ngx-indexed-db
   
   12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
+  
+  13) https://www.itsolutionstuff.com/post/how-to-get-current-url-in-angularexample.html
    
   ### On Screen Keyboard
   
