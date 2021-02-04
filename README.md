@@ -197,6 +197,7 @@ i) https://www.gimp.org/
 1) https://pub.dev/packages/flutter_colorpicker
 2) https://medium.com/super-declarative/flutter-color-picker-widget-workshop-a6de6f9cb477
 3) https://github.com/flutter/flutter/issues/51670 
+4) https://flutterstudio.app/
 
 # 16) Web
 i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
