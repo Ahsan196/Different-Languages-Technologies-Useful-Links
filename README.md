@@ -217,3 +217,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 # 19) API
 
 1) https://dzone.com/articles/difference-between-rest-and-soap-api#:~:text=What%20Is%20a%20SOAP%20API,%2C%20leads%2C%20and%20custom%20objects.
+
+# 20) PHP
+
+1) Activating GD Library: https://www.youtube.com/watch?v=NJWwKj22n94
