@@ -199,6 +199,7 @@ i) https://www.gimp.org/
 3) https://github.com/flutter/flutter/issues/51670 
 4) https://flutterstudio.app/
 5) https://pub.dev/
+6) https://stackoverflow.com/questions/49371221/duplicate-globalkey-detected-in-widget-tree
 
 # 16) Web
 i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
