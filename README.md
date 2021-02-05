@@ -200,6 +200,7 @@ i) https://www.gimp.org/
 4) https://flutterstudio.app/
 5) https://pub.dev/
 6) https://stackoverflow.com/questions/49371221/duplicate-globalkey-detected-in-widget-tree
+7) https://stackoverflow.com/questions/54905388/incorrect-use-of-parent-data-widget-expanded-widgets-must-be-placed-inside-flex
 
 # 16) Web
 i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
