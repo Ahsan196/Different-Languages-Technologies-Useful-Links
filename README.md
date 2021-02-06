@@ -174,6 +174,7 @@ xxix) https://www.cleveroad.com/blog/angular-vs-react#:~:text=React%20is%20bette
 xxx) https://medium.com/@anilreddya/customizing-angular-mat-autocomplete-to-handle-a-million-records-f85ac4f33df4
 
 xxxi)https://stackoverflow.com/questions/42157408/alternative-to-includes
+
 # 11) Material Icons
 
    i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
@@ -215,7 +216,6 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 2) https://stackoverflow.com/questions/16493280/close-bootstrap-modal
 3) https://www.itsolutionstuff.com/post/jquery-how-to-use-radio-button-change-eventexample.html
 
-
 # 19) API
 
 1) https://dzone.com/articles/difference-between-rest-and-soap-api#:~:text=What%20Is%20a%20SOAP%20API,%2C%20leads%2C%20and%20custom%20objects.
@@ -223,3 +223,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 # 20) PHP
 
 1) Activating GD Library: https://www.youtube.com/watch?v=NJWwKj22n94
+
+# 21) C#
+
+1) https://stackoverflow.com/questions/45653884/how-to-add-new-win-form-in-project-c
