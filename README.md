@@ -229,3 +229,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 
 1) https://stackoverflow.com/questions/45653884/how-to-add-new-win-form-in-project-c
 2) https://www.homeandlearn.co.uk/csharp/csharp_s13p1.html
+
+# 22) HTML
+
+1) https://stackoverflow.com/questions/5592345/how-to-select-a-radio-button-by-default
