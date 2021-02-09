@@ -233,3 +233,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 # 22) HTML
 
 1) https://stackoverflow.com/questions/5592345/how-to-select-a-radio-button-by-default
+
+# 23) Others
+
+1) https://sweetalert.js.org/
