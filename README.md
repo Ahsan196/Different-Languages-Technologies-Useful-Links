@@ -238,3 +238,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 # 23) Others
 
 1) https://sweetalert.js.org/
+
+# 24) Excel
+
+1) https://www.exceltip.com/summing/summing-values-from-cells-in-different-sheets.html
