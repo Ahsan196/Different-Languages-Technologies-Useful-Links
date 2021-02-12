@@ -107,73 +107,73 @@ iii) https://www.tensorflow.org/hub/common_issues
 
 # 10) Angular
 
-   i) https://tburleson-layouts-demos.firebaseapp.com/#/docs
+ 1) https://tburleson-layouts-demos.firebaseapp.com/#/docs
    
-  ii) https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
+ 2) https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
   
- iii) https://levelup.gitconnected.com/export-data-to-excel-sheet-in-angular-8-7a8e0342643d
+ 3) https://levelup.gitconnected.com/export-data-to-excel-sheet-in-angular-8-7a8e0342643d
  
-  iv) https://stackoverflow.com/questions/44580387/how-to-change-material-icon-on-click-event-with-angular2-4-material
+ 4) https://stackoverflow.com/questions/44580387/how-to-change-material-icon-on-click-event-with-angular2-4-material
   
-   v) https://stackoverflow.com/questions/51949273/how-to-get-row-data-onselect-event-in-ngx-datatable
+ 5) https://stackoverflow.com/questions/51949273/how-to-get-row-data-onselect-event-in-ngx-datatable
    
-  vi) https://stackoverflow.com/questions/51704888/remove-rows-with-ngx-datatable
+ 6) https://stackoverflow.com/questions/51704888/remove-rows-with-ngx-datatable
 
- vii) http://embed.plnkr.co/gfr9IDIAdXEy9Am6B5PB/
+ 7) http://embed.plnkr.co/gfr9IDIAdXEy9Am6B5PB/
 
-  8) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
+ 8) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
   
-  9) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
+ 9) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
    
-  10) https://blog.angular-university.io/angular-material-dialog/
+10) https://blog.angular-university.io/angular-material-dialog/
   
-  11)https://www.npmjs.com/package/ngx-indexed-db
+11) https://www.npmjs.com/package/ngx-indexed-db
   
-  12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
+12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
   
-  13) https://www.itsolutionstuff.com/post/how-to-get-current-url-in-angularexample.html
-   
-  ### On Screen Keyboard
+13) https://www.itsolutionstuff.com/post/how-to-get-current-url-in-angularexample.html
+
+14) https://www.techiediaries.com/angular-material-dialogs/
+
+15) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.component.ts
+
+16) https://www.npmjs.com/package/ngx-indexed-db
   
- xii) https://www.npmjs.com/package/angular-onscreen-material-keyboard
+17) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
+
+18) https://stackoverflow.com/questions/52143052/how-to-manually-set-focus-on-mat-form-field-in-angular-6/54230643#54230643
+
+19) https://forums.meteor.com/t/fixed-trouble-integrating-accounting-js-into-a-1-3-project/20736
+
+20) https://www.npmjs.com/package/accounting-js 
  
-xiii) https://virtual-keyboard.js.org/angular/
+21) https://stackoverflow.com/questions/42584000/format-float-double-with-angular 
 
-xiv) https://www.techiediaries.com/angular-material-dialogs/
+22) https://gsferreira.com/archive/2015/02/angularjs-input-number-with-two-decimal-places/
 
-xv) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.component.ts
+23) https://oamatech.com/javascript-remove-comma-from-string/
 
-xvi) https://www.npmjs.com/package/ngx-indexed-db
+24) https://codepen.io/AironRo/pen/GZNKXR
+
+25) https://www.linkedin.com/pulse/angular-constructor-vs-ngoninit-madhumati-hosamani/
+
+26) https://stackoverflow.com/questions/13329485/what-does-mvw-stand-for
+
+27) https://stackoverflow.com/questions/37159827/is-there-any-alternative-for-ng-disabled-in-angular2
+
+28) https://www.codegrepper.com/code-examples/delphi/angular+9+how+to+routereusestrategy+to+refresh+component
+ 
+29) https://www.cleveroad.com/blog/angular-vs-react#:~:text=React%20is%20better%20than%20Angular%20due%20to%20it's%20virtual%20DOM,existing%20solutions%20they%20can%20use.
+
+30) https://medium.com/@anilreddya/customizing-angular-mat-autocomplete-to-handle-a-million-records-f85ac4f33df4
+
+31) https://stackoverflow.com/questions/42157408/alternative-to-includes
+
+### On Screen Keyboard
   
-xvii) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
-
-xviii) https://stackoverflow.com/questions/52143052/how-to-manually-set-focus-on-mat-form-field-in-angular-6/54230643#54230643
-
-xix) https://forums.meteor.com/t/fixed-trouble-integrating-accounting-js-into-a-1-3-project/20736
-
- xx) https://www.npmjs.com/package/accounting-js 
+32) https://www.npmjs.com/package/angular-onscreen-material-keyboard
  
-xxi) https://stackoverflow.com/questions/42584000/format-float-double-with-angular 
-
-xxii) https://gsferreira.com/archive/2015/02/angularjs-input-number-with-two-decimal-places/
-
-xxiii) https://oamatech.com/javascript-remove-comma-from-string/
-
-xxiv) https://codepen.io/AironRo/pen/GZNKXR
-
-xxv) https://www.linkedin.com/pulse/angular-constructor-vs-ngoninit-madhumati-hosamani/
-
-xxvi) https://stackoverflow.com/questions/13329485/what-does-mvw-stand-for
-
-xxvii) https://stackoverflow.com/questions/37159827/is-there-any-alternative-for-ng-disabled-in-angular2
-
-xxviii) https://www.codegrepper.com/code-examples/delphi/angular+9+how+to+routereusestrategy+to+refresh+component
- 
-xxix) https://www.cleveroad.com/blog/angular-vs-react#:~:text=React%20is%20better%20than%20Angular%20due%20to%20it's%20virtual%20DOM,existing%20solutions%20they%20can%20use.
-
-xxx) https://medium.com/@anilreddya/customizing-angular-mat-autocomplete-to-handle-a-million-records-f85ac4f33df4
-
-xxxi)https://stackoverflow.com/questions/42157408/alternative-to-includes
+33) https://virtual-keyboard.js.org/angular/
 
 # 11) Material Icons
 
