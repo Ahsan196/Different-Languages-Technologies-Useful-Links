@@ -204,6 +204,7 @@ i) https://www.gimp.org/
 7) https://stackoverflow.com/questions/54905388/incorrect-use-of-parent-data-widget-expanded-widgets-must-be-placed-inside-flex
 8) https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823
 9) https://www.woolha.com/tutorials/flutter-card-widget-example
+10) https://stackoverflow.com/questions/52227846/how-can-i-add-shadow-to-the-widget-in-flutter 
 
 # 16) Web
 i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
