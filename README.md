@@ -239,6 +239,9 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 # 23) Others
 
 1) https://sweetalert.js.org/
+2) A collection of tools to easily generate assets such as launcher icons for your Android app.
+   https://romannurik.github.io/AndroidAssetStudio/index.html
+3) https://appicon.co/
 
 # 24) Excel
 
