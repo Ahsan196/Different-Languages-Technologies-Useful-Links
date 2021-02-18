@@ -251,3 +251,4 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 
 1) https://stackoverflow.com/questions/31662643/sharepoint-rest-api-getfolderbyserverrelativeurl-returns-nothing
 2) https://www.c-sharpcorner.com/article/integrating-sharepoint-with-node-js/
+3) https://www.c-sharpcorner.com/article/integrating-sharepoint-data-into-node-js-with-access-token/
