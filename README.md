@@ -169,11 +169,13 @@ iii) https://www.tensorflow.org/hub/common_issues
 
 31) https://stackoverflow.com/questions/42157408/alternative-to-includes
 
+32) https://www.geeksforgeeks.org/how-to-create-a-hyperlink-for-values-from-an-array-in-angular-8/
+
 ### On Screen Keyboard
   
-32) https://www.npmjs.com/package/angular-onscreen-material-keyboard
+34) https://www.npmjs.com/package/angular-onscreen-material-keyboard
  
-33) https://virtual-keyboard.js.org/angular/
+35) https://virtual-keyboard.js.org/angular/
 
 # 11) Material Icons
 
