@@ -255,3 +255,8 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 1) https://stackoverflow.com/questions/31662643/sharepoint-rest-api-getfolderbyserverrelativeurl-returns-nothing
 2) https://www.c-sharpcorner.com/article/integrating-sharepoint-with-node-js/
 3) https://www.c-sharpcorner.com/article/integrating-sharepoint-data-into-node-js-with-access-token/
+
+# 26) Wamp
+
+1) http://breakthesecurity.cysecurity.org/2011/07/how-to-run-php-files-using-wamp-server.html
+2) https://stackoverflow.com/questions/14557245/wamp-shows-error-msvcr100-dll-is-missing-when-install
