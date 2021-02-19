@@ -244,6 +244,7 @@ i) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 2) A collection of tools to easily generate assets such as launcher icons for your Android app.
    https://romannurik.github.io/AndroidAssetStudio/index.html
 3) https://appicon.co/
+4) https://www.youtube.com/watch?v=jSkQ27sTto0
 
 # 24) Excel
 
