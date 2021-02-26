@@ -238,6 +238,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 22) HTML
 
 1) https://stackoverflow.com/questions/5592345/how-to-select-a-radio-button-by-default
+2) http://jsfiddle.net/robertc/X8UXQ/190/
 
 # 23) Others
 
