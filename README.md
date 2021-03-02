@@ -174,11 +174,13 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 33) https://www.digitalocean.com/community/tutorials/angular-reactive-forms-valuechanges
 
+35) https://stackoverflow.com/questions/49665960/angular-5-template-forms-detect-change-of-form-validity-status
+ 
 ### On Screen Keyboard
   
-34) https://www.npmjs.com/package/angular-onscreen-material-keyboard
+35) https://www.npmjs.com/package/angular-onscreen-material-keyboard
  
-35) https://virtual-keyboard.js.org/angular/
+36) https://virtual-keyboard.js.org/angular/
 
 # 11) Material Icons
 
