@@ -172,6 +172,8 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 32) https://www.geeksforgeeks.org/how-to-create-a-hyperlink-for-values-from-an-array-in-angular-8/
 
+33) https://www.digitalocean.com/community/tutorials/angular-reactive-forms-valuechanges
+
 ### On Screen Keyboard
   
 34) https://www.npmjs.com/package/angular-onscreen-material-keyboard
