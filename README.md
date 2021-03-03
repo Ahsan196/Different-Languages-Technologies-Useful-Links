@@ -270,3 +270,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 1) http://breakthesecurity.cysecurity.org/2011/07/how-to-run-php-files-using-wamp-server.html
 2) https://stackoverflow.com/questions/14557245/wamp-shows-error-msvcr100-dll-is-missing-when-install
+
+# 27) Front End Architecture
+
+1) https://dev.to/kevtiq/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
