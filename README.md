@@ -237,6 +237,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 20) PHP
 
 1) Activating GD Library: https://www.youtube.com/watch?v=NJWwKj22n94
+2) https://stackoverflow.com/questions/9816889/how-to-echo-or-print-an-array-in-php
 
 # 21) C#
 
