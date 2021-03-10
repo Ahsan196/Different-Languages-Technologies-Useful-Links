@@ -257,6 +257,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 3) https://appicon.co/
 4) https://www.youtube.com/watch?v=jSkQ27sTto0
 5) https://www.codemag.com/Article/1411041/Introduction-to-IndexedDB-The-In-Browser-Database
+6) https://livebook.manning.com/book/html5-in-action/chapter-5/115
 
 # 24) Excel
 
