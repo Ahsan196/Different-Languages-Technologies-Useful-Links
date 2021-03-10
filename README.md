@@ -258,6 +258,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 4) https://www.youtube.com/watch?v=jSkQ27sTto0
 5) https://www.codemag.com/Article/1411041/Introduction-to-IndexedDB-The-In-Browser-Database
 6) https://livebook.manning.com/book/html5-in-action/chapter-5/115
+7) http://dev.yathit.com/ydn-db/doc/setup/limitation.html
 
 # 24) Excel
 
