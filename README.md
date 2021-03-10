@@ -233,6 +233,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 19) API
 
 1) https://dzone.com/articles/difference-between-rest-and-soap-api#:~:text=What%20Is%20a%20SOAP%20API,%2C%20leads%2C%20and%20custom%20objects.
+2) https://jsonplaceholder.typicode.com/
 
 # 20) PHP
 
