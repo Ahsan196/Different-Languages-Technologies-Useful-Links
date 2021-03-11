@@ -220,15 +220,16 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 
-# 17) jQuery-Ajax
-
-1) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
+# 17) 
 
 # 18) jQuery
 
 1) https://stackoverflow.com/questions/8948785/check-display-error-message-for-an-empty-text-field
 2) https://stackoverflow.com/questions/16493280/close-bootstrap-modal
 3) https://www.itsolutionstuff.com/post/jquery-how-to-use-radio-button-change-eventexample.html
+4) https://forum.jquery.com/topic/typeerror-ajax-is-not-a-function
+5) https://www.codeproject.com/Questions/782990/TypeError-ajax-is-not-a-function
+6) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
 
 # 19) API
 
