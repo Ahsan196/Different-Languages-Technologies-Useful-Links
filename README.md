@@ -42,6 +42,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   
   14) https://www.tutorialspoint.com/What-is-the-best-way-to-compare-two-strings-in-JavaScript
   
+  15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
+  
 # 4) Data Science
 
    i) Data Science Interview Questions - 48 pages
