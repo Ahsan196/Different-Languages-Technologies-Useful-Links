@@ -234,7 +234,8 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 19) API
 
 1) https://dzone.com/articles/difference-between-rest-and-soap-api#:~:text=What%20Is%20a%20SOAP%20API,%2C%20leads%2C%20and%20custom%20objects.
-2) https://jsonplaceholder.typicode.com/
+2) https://jsonplaceholder.typicode.com/'
+3) https://levelup.gitconnected.com/all-possible-ways-of-making-an-api-call-in-plain-javascript-c0dee3c11b8b
 
 # 20) PHP
 
