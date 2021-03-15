@@ -265,6 +265,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 6) https://livebook.manning.com/book/html5-in-action/chapter-5/115
 7) http://dev.yathit.com/ydn-db/doc/setup/limitation.html
 8) http://www.moodle2.tfe.umu.se/pluginfile.php/32062/mod_resource/content/1/Persona%20creation%20-%20George%20Olsen.pdf
+9) https://fontawesome.com/icons/list
 
 # 24) Excel
 
