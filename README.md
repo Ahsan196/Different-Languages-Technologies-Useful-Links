@@ -225,6 +225,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 17) Mobile Apps
 
 1) https://medium.com/@jeffrey.rosser/what-is-a-webview-and-how-can-it-drive-your-mobility-strategy-cf323a4b3bcf
+2) https://www.kirupa.com/apps/webview.htm#:~:text=A%20WebView%20is%20an%20embeddable,native%20application%20(aka%20app).
 
 # 18) jQuery
 
