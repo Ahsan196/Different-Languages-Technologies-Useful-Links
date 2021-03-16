@@ -222,7 +222,9 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 
-# 17) 
+# 17) Mobile Apps
+
+1) https://medium.com/@jeffrey.rosser/what-is-a-webview-and-how-can-it-drive-your-mobility-strategy-cf323a4b3bcf
 
 # 18) jQuery
 
