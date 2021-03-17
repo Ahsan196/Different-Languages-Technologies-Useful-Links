@@ -43,6 +43,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   14) https://www.tutorialspoint.com/What-is-the-best-way-to-compare-two-strings-in-JavaScript
   
   15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
+   
+  16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
   
 # 4) Data Science
 
