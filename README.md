@@ -289,3 +289,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 27) Front End Architecture
 
 1) https://dev.to/kevtiq/how-to-create-a-scalable-and-maintainable-front-end-architecture-4f47
+
+# 28) Framework7
+
+1) https://forum.framework7.io/t/solved-validate-input-missing-attribute-validate/2851/2
