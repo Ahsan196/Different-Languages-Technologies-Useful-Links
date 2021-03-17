@@ -45,6 +45,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
    
   16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
+
+  17) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
   
 # 4) Data Science
 
