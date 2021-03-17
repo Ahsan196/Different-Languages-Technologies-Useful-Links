@@ -274,6 +274,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 7) http://dev.yathit.com/ydn-db/doc/setup/limitation.html
 8) http://www.moodle2.tfe.umu.se/pluginfile.php/32062/mod_resource/content/1/Persona%20creation%20-%20George%20Olsen.pdf
 9) https://fontawesome.com/icons/list
+10) https://www.toolsqa.com/postman/post-request-in-postman/
 
 # 24) Excel
 
