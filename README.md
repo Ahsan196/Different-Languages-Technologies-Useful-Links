@@ -229,6 +229,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
+2) https://stackoverflow.com/questions/41020403/reload-a-page-with-location-href-or-window-location-reloadtrue
 
 # 17) Mobile Apps
 
