@@ -47,6 +47,10 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
 
   17) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+ 
+  18) https://davidwalsh.name/query-string-javascript
+ 
+  19) https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript
   
 # 4) Data Science
 
