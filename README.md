@@ -245,6 +245,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 4) https://forum.jquery.com/topic/typeerror-ajax-is-not-a-function
 5) https://www.codeproject.com/Questions/782990/TypeError-ajax-is-not-a-function
 6) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
+7) https://p.bdir.in/p/Check-Duplicate-Browser-TabsWindows-With-jQuery---duplicatejs/14863
 
 # 19) API
 
