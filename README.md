@@ -58,6 +58,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   
   22) https://stackoverflow.com/questions/18623783/get-the-time-difference-between-two-datetimes
   
+  23) https://www.sitepoint.com/javascript-validate-email-address-regex/
+  
 # 4) Data Science
 
    i) Data Science Interview Questions - 48 pages
