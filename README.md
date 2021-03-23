@@ -54,6 +54,10 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   
   20) https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript
   
+  21) https://www.codegrepper.com/code-examples/javascript/replace+special+chars+with+space+in+js
+  
+  22) https://stackoverflow.com/questions/18623783/get-the-time-difference-between-two-datetimes
+  
 # 4) Data Science
 
    i) Data Science Interview Questions - 48 pages
