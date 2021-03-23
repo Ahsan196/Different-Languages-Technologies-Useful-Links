@@ -62,6 +62,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
 
   24) https://stackoverflow.com/questions/32540667/moment-js-utc-to-local-time
   
+  25) https://stackoverflow.com/questions/23454975/how-to-convert-hours-and-minutes-to-minutes-with-moment-js 
+  
 # 4) Data Science
 
    i) Data Science Interview Questions - 48 pages
