@@ -318,3 +318,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 1) https://forum.framework7.io/t/solved-validate-input-missing-attribute-validate/2851/2
 2) https://stackoverflow.com/questions/52738180/how-to-navigate-to-a-page-in-framework7
+
+# 29) Wordpress
+
+1) https://www.designbombs.com/how-to-add-google-analytics-to-wordpress-manually-and-via-plugin/
