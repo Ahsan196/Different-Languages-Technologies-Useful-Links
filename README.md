@@ -208,9 +208,12 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
  
 39) https://virtual-keyboard.js.org/angular/
 
-# 11) Material Icons
+# 11) Icons
 
-   i) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
+   1) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
+   
+   2) https://www.w3schools.com/icons/icons_reference.asp
+   
    
 # 12) Android
 
