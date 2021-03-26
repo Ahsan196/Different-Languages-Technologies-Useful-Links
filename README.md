@@ -298,6 +298,8 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 9) https://fontawesome.com/icons/list
 10) https://www.toolsqa.com/postman/post-request-in-postman/
 11) https://stackoverflow.com/questions/45646854/how-we-can-apply-if-else-condition-on-css-properties-using-javascript
+12) https://loading.io/css/
+
 
 # 24) Excel
 
