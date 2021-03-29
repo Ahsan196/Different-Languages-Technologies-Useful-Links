@@ -246,6 +246,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 2) https://stackoverflow.com/questions/41020403/reload-a-page-with-location-href-or-window-location-reloadtrue
 3) https://laracasts.com/discuss/channels/laravel/how-can-i-limit-the-user-to-a-single-session-tab
+4) https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
 
 # 17) Mobile Apps
 
@@ -261,6 +262,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 5) https://www.codeproject.com/Questions/782990/TypeError-ajax-is-not-a-function
 6) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
 7) https://p.bdir.in/p/Check-Duplicate-Browser-TabsWindows-With-jQuery---duplicatejs/14863
+
 
 # 19) API
 
