@@ -62,7 +62,9 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
 
   24) https://stackoverflow.com/questions/32540667/moment-js-utc-to-local-time
   
-  25) https://stackoverflow.com/questions/23454975/how-to-convert-hours-and-minutes-to-minutes-with-moment-js 
+  25) https://stackoverflow.com/questions/23454975/how-to-convert-hours-and-minutes-to-minutes-with-moment-js
+   
+  26) https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
   
 # 4) Data Science
 
@@ -246,7 +248,6 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 2) https://stackoverflow.com/questions/41020403/reload-a-page-with-location-href-or-window-location-reloadtrue
 3) https://laracasts.com/discuss/channels/laravel/how-can-i-limit-the-user-to-a-single-session-tab
-4) https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
 
 # 17) Mobile Apps
 
