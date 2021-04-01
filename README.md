@@ -65,6 +65,8 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
   25) https://stackoverflow.com/questions/23454975/how-to-convert-hours-and-minutes-to-minutes-with-moment-js
    
   26) https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
+ 
+  27) https://hashnode.com/post/create-an-array-of-objects-from-localstorage-cjuzgdi410008qas1s6udbho2
   
 # 4) Data Science
 
