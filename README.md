@@ -9,6 +9,7 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
  iv) https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
  
  5) https://kanoki.org/2020/03/09/how-to-use-pandas-count-and-value_counts/
+ 6) https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
 
 
 # 2) React/ReactJS/React.js
