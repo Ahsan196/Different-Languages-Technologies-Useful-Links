@@ -22,7 +22,6 @@ iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-
 # 3) Javascript
    
    1) https://scotch.io/courses/10-need-to-know-javascript-concepts
-   
    2) https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910#:~:text=Named%20Export%3A%20(export),name%20of%20the%20exported%20module
   
    3) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
