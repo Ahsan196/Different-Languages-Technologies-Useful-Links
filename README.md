@@ -344,3 +344,8 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 29) Wordpress
 
 1) https://www.designbombs.com/how-to-add-google-analytics-to-wordpress-manually-and-via-plugin/
+
+
+# 30) CSS
+
+1) https://stackoverflow.com/questions/8690841/how-do-i-line-up-3-divs-on-the-same-row/52435998
