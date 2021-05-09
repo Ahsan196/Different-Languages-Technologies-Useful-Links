@@ -1,18 +1,15 @@
 # 1) Python
 
-  i) https://linuxconfig.org/how-to-parse-data-from-json-into-python
-  
- ii) https://programmersought.com/article/14282670419/
- 
-iii) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-in-python
-
- iv) https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
- 
- 5) https://kanoki.org/2020/03/09/how-to-use-pandas-count-and-value_counts/
- 6) https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
- 7) https://www.javaer101.com/en/article/40800166.html
- 8) https://www.edureka.co/community/45765/pandas-print-rows-if-value-greater-than-some-value
- 9) https://www.geeksforgeeks.org/python-pandas-series-between/
+  1) https://linuxconfig.org/how-to-parse-data-from-json-into-python
+  2) https://programmersought.com/article/14282670419/ 
+  3) https://stackoverflow.com/questions/62596452/how-to-write-grid-in-csv-file-in-python
+  4) https://stackoverflow.com/questions/11285613/selecting-multiple-columns-in-a-pandas-dataframe
+  5) https://kanoki.org/2020/03/09/how-to-use-pandas-count-and-value_counts/
+  6) https://www.geeksforgeeks.org/drop-rows-from-the-dataframe-based-on-certain-condition-applied-on-a-column/
+  7) https://www.javaer101.com/en/article/40800166.html
+  8) https://www.edureka.co/community/45765/pandas-print-rows-if-value-greater-than-some-value
+  9) https://www.geeksforgeeks.org/python-pandas-series-between/
+ 10) https://stackoverflow.com/questions/38333954/converting-object-to-datetime-format-in-python
 
 
 # 2) React/ReactJS/React.js
