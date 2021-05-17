@@ -269,6 +269,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 5) https://www.codeproject.com/Questions/782990/TypeError-ajax-is-not-a-function
 6) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
 7) https://p.bdir.in/p/Check-Duplicate-Browser-TabsWindows-With-jQuery---duplicatejs/14863
+8) https://itnext.io/5-ways-to-loop-over-dom-elements-from-queryselectorall-in-javascript-55bd66ca4128
 
 
 # 19) API
