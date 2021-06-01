@@ -210,12 +210,14 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 36) https://www.tektutorialshub.com/angular/valuechanges-in-angular-forms/
 
 37) https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage
+
+38) https://stackoverflow.com/questions/45934244/multiple-autocomplete-in-same-page-with-different-source-in-angular-4-with-angul/45934330
  
 ### On Screen Keyboard
   
-38) https://www.npmjs.com/package/angular-onscreen-material-keyboard
+39) https://www.npmjs.com/package/angular-onscreen-material-keyboard
  
-39) https://virtual-keyboard.js.org/angular/
+40) https://virtual-keyboard.js.org/angular/
 
 # 11) Icons
 
