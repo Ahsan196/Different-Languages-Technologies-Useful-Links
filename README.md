@@ -74,6 +74,8 @@
   28) https://stackoverflow.com/questions/14838199/illegal-continue-statement
   
   29) https://stackoverflow.com/questions/149055/how-to-format-numbers-as-currency-strings
+ 
+ 30) https://stackoverflow.com/questions/55539103/angular-create-is-deprecated-use-new-observable-instead
   
 # 4) Data Science
 
