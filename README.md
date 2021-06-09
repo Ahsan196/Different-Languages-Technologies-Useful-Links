@@ -320,6 +320,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 12) https://loading.io/css/
 13) https://support.openrainbow.com/hc/en-us/community/posts/360004135519-Local-HTTP-SERVER-show-This-page-isn-t-working-
 14) https://stackoverflow.com/questions/47068150/how-to-detect-browser-refresh-or-close/47068580
+15) https://www.geeksforgeeks.org/how-to-check-if-a-browser-tab-is-currently-active-or-not/
 
 
 # 24) Excel
