@@ -262,6 +262,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
 2) https://stackoverflow.com/questions/41020403/reload-a-page-with-location-href-or-window-location-reloadtrue
 3) https://laracasts.com/discuss/channels/laravel/how-can-i-limit-the-user-to-a-single-session-tab
+4) https://stackoverflow.com/questions/25922776/how-to-realize-when-a-browser-tab-has-been-duplicated
 
 # 17) Mobile Apps
 
