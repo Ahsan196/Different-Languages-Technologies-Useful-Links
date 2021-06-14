@@ -295,6 +295,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 1) https://stackoverflow.com/questions/45653884/how-to-add-new-win-form-in-project-c
 2) https://www.homeandlearn.co.uk/csharp/csharp_s13p1.html
+3) https://ahsanraza498.medium.com/top-5-tips-for-any-c-developer-caaa8a621dc9
 
 # 22) HTML
 
