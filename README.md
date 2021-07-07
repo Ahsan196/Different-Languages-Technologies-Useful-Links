@@ -76,6 +76,7 @@
   29) https://stackoverflow.com/questions/149055/how-to-format-numbers-as-currency-strings
  
  30) https://stackoverflow.com/questions/55539103/angular-create-is-deprecated-use-new-observable-instead
+ 31) https://stackoverflow.com/questions/50432928/error-in-multer-image-upload-unexpected-token-in-json-at-position-0-syntaxer
   
 # 4) Data Science
 
