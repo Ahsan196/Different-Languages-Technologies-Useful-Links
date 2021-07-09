@@ -77,6 +77,7 @@
  
  30) https://stackoverflow.com/questions/55539103/angular-create-is-deprecated-use-new-observable-instead
  31) https://stackoverflow.com/questions/50432928/error-in-multer-image-upload-unexpected-token-in-json-at-position-0-syntaxer
+ 32) https://www.codeproject.com/Questions/303415/get-file-name-without-extension
   
 # 4) Data Science
 
@@ -363,3 +364,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 30) CSS
 
 1) https://stackoverflow.com/questions/8690841/how-do-i-line-up-3-divs-on-the-same-row/52435998
+
+# 31) Node
+
+1) https://www.codegrepper.com/code-examples/javascript/find+files+in+diretory+nodejs
