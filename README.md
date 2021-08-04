@@ -78,6 +78,7 @@
  30) https://stackoverflow.com/questions/55539103/angular-create-is-deprecated-use-new-observable-instead
  31) https://stackoverflow.com/questions/50432928/error-in-multer-image-upload-unexpected-token-in-json-at-position-0-syntaxer
  32) https://www.codeproject.com/Questions/303415/get-file-name-without-extension
+ 33) https://stackoverflow.com/questions/8489500/how-do-i-subtract-one-week-from-this-date-in-jquery/8489569
   
 # 4) Data Science
 
