@@ -365,6 +365,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 30) CSS
 
 1) https://stackoverflow.com/questions/8690841/how-do-i-line-up-3-divs-on-the-same-row/52435998
+2) https://jsfiddle.net/9a1n5o5a/1/
 
 # 31) Node
 
