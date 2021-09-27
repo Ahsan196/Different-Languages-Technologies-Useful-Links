@@ -209,22 +209,17 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 31) https://stackoverflow.com/questions/42157408/alternative-to-includes
 
 32) https://www.geeksforgeeks.org/how-to-create-a-hyperlink-for-values-from-an-array-in-angular-8/
-
 33) https://www.digitalocean.com/community/tutorials/angular-reactive-forms-valuechanges
-
 35) https://stackoverflow.com/questions/49665960/angular-5-template-forms-detect-change-of-form-validity-status
-
 36) https://www.tektutorialshub.com/angular/valuechanges-in-angular-forms/
-
 37) https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage
-
 38) https://stackoverflow.com/questions/45934244/multiple-autocomplete-in-same-page-with-different-source-in-angular-4-with-angul/45934330
+39) https://www.freakyjolly.com/switch-multiple-languages-i18n-using-ngx-translate-in-angular-12/
  
 ### On Screen Keyboard
   
-39) https://www.npmjs.com/package/angular-onscreen-material-keyboard
- 
-40) https://virtual-keyboard.js.org/angular/
+40) https://www.npmjs.com/package/angular-onscreen-material-keyboard
+41) https://virtual-keyboard.js.org/angular/
 
 # 11) Icons
 
