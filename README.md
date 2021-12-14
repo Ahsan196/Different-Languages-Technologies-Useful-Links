@@ -256,6 +256,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 9) https://www.woolha.com/tutorials/flutter-card-widget-example
 10) https://stackoverflow.com/questions/52227846/how-can-i-add-shadow-to-the-widget-in-flutter 
 11) https://stackoverflow.com/questions/63688642/close-alertdialog-on-navigating-back-from-second-screen-and-refresh-page-flutter
+12) https://rrtutors.com/site/answer/How-to-handle-the-code-after-showDialog-is-dismissed-in-Flutter
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
