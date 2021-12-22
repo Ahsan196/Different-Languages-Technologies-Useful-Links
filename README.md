@@ -233,6 +233,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
    1) https://github.com/felixpalmer/android-visualizer
    2) https://github.com/tushar40/Wall-Paint-App-Android
    3) https://www.npmjs.com/package/mssql#execute-procedure-callback
+   4) https://stackoverflow.com/questions/57622704/no-permissions-found-in-manifest-android
 
 # 13) NPM Packages
 
