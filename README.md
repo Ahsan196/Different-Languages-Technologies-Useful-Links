@@ -372,3 +372,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 31) Node
 
 1) https://www.codegrepper.com/code-examples/javascript/find+files+in+diretory+nodejs
+
+# 32) Electron
+
+1) https://ourcodeworld.com/articles/read/365/how-to-create-a-windows-installer-for-an-application-built-with-electron-framework
