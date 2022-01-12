@@ -234,6 +234,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
    2) https://github.com/tushar40/Wall-Paint-App-Android
    3) https://www.npmjs.com/package/mssql#execute-procedure-callback
    4) https://stackoverflow.com/questions/57622704/no-permissions-found-in-manifest-android
+   5) https://stackoverflow.com/questions/26609734/how-to-enable-multidexing-with-the-new-android-multidex-support-library
 
 # 13) NPM Packages
 
