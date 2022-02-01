@@ -378,3 +378,4 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 1) https://ourcodeworld.com/articles/read/365/how-to-create-a-windows-installer-for-an-application-built-with-electron-framework
 2) https://stackoverflow.com/questions/37828758/electron-js-how-to-minimize-close-window-to-system-tray-and-restore-window-back
+3) https://stackoverflow.com/questions/54684174/how-to-reopen-electron-application-which-in-tray-from-the-dock-or-task-bar-icon
