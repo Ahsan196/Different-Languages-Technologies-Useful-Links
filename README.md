@@ -377,3 +377,4 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 32) Electron
 
 1) https://ourcodeworld.com/articles/read/365/how-to-create-a-windows-installer-for-an-application-built-with-electron-framework
+2) https://stackoverflow.com/questions/37828758/electron-js-how-to-minimize-close-window-to-system-tray-and-restore-window-back
