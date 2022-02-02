@@ -261,6 +261,9 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 12) https://rrtutors.com/site/answer/How-to-handle-the-code-after-showDialog-is-dismissed-in-Flutter
 13) https://stackoverflow.com/questions/56936194/resetting-form-using-formkey-currentstate-reset-not-working/56937592
 14) https://stackoverflow.com/questions/52835450/flutter-how-to-avoid-special-characters-in-validator
+15) https://www.woolha.com/tutorials/dart-create-http-request-examples
+16) https://www.titanwolf.org/Network/q/09094fc5-e0d1-466a-9cd8-88686bb1ad1b/y
+17) https://stackoverflow.com/questions/51487818/set-timeout-for-httpclient-get-request
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
