@@ -264,6 +264,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 15) https://www.woolha.com/tutorials/dart-create-http-request-examples
 16) https://www.titanwolf.org/Network/q/09094fc5-e0d1-466a-9cd8-88686bb1ad1b/y
 17) https://stackoverflow.com/questions/51487818/set-timeout-for-httpclient-get-request
+18) https://blog.logrocket.com/using-sharedpreferences-in-flutter-to-store-data-locally/
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
