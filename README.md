@@ -316,6 +316,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 3) https://stackoverflow.com/questions/3303675/how-to-make-an-input-type-button-act-like-a-hyperlink-and-redirect-using-a-get-r
 4) https://stackoverflow.com/questions/34807000/add-tooltip-to-font-awesome-icon
 5) https://www.codegrepper.com/code-examples/javascript/convert+special+characters+to+html+in+javascript
+6) https://stackoverflow.com/questions/32577752/accept-value-greater-than-zero-and-the-value-can-be-even-0-01-or-0-10
 
 # 23) Others
 
