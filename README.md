@@ -224,9 +224,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 11) Icons
 
    1) https://stackoverflow.com/questions/49657545/mat-icon-does-not-center-in-its-div/49658015
-   
    2) https://www.w3schools.com/icons/icons_reference.asp
-   
    
 # 12) Android
 
@@ -317,6 +315,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 5) https://www.codegrepper.com/code-examples/javascript/convert+special+characters+to+html+in+javascript
 6) https://stackoverflow.com/questions/32577752/accept-value-greater-than-zero-and-the-value-can-be-even-0-01-or-0-10
 7) https://css-tricks.com/snippets/javascript/move-cursor-to-end-of-input/
+8) https://stackoverflow.com/questions/995183/how-to-allow-only-numeric-0-9-in-html-inputbox-using-jquery
 
 # 23) Others
 
