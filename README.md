@@ -290,7 +290,6 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 7) https://p.bdir.in/p/Check-Duplicate-Browser-TabsWindows-With-jQuery---duplicatejs/14863
 8) https://itnext.io/5-ways-to-loop-over-dom-elements-from-queryselectorall-in-javascript-55bd66ca4128
 
-
 # 19) API
 
 1) https://dzone.com/articles/difference-between-rest-and-soap-api#:~:text=What%20Is%20a%20SOAP%20API,%2C%20leads%2C%20and%20custom%20objects.
@@ -317,6 +316,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 4) https://stackoverflow.com/questions/34807000/add-tooltip-to-font-awesome-icon
 5) https://www.codegrepper.com/code-examples/javascript/convert+special+characters+to+html+in+javascript
 6) https://stackoverflow.com/questions/32577752/accept-value-greater-than-zero-and-the-value-can-be-even-0-01-or-0-10
+7) https://css-tricks.com/snippets/javascript/move-cursor-to-end-of-input/
 
 # 23) Others
 
