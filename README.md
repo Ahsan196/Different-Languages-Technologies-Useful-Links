@@ -20,7 +20,6 @@
    
    1) https://scotch.io/courses/10-need-to-know-javascript-concepts
    2) https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910#:~:text=Named%20Export%3A%20(export),name%20of%20the%20exported%20module
-  
    3) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
  
    4) https://www.geeksforgeeks.org/number-validation-in-javascript/
@@ -79,6 +78,7 @@
  31) https://stackoverflow.com/questions/50432928/error-in-multer-image-upload-unexpected-token-in-json-at-position-0-syntaxer
  32) https://www.codeproject.com/Questions/303415/get-file-name-without-extension
  33) https://stackoverflow.com/questions/8489500/how-do-i-subtract-one-week-from-this-date-in-jquery/8489569
+ 34) https://stackoverflow.com/questions/57583540/javascript-text-input-on-input-text-change-format-to-two-decimal-places
   
 # 4) Data Science
 
