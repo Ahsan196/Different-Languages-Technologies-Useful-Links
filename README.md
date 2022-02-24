@@ -69,16 +69,14 @@
   26) https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
  
   27) https://hashnode.com/post/create-an-array-of-objects-from-localstorage-cjuzgdi410008qas1s6udbho2
-  
   28) https://stackoverflow.com/questions/14838199/illegal-continue-statement
-  
-  29) https://stackoverflow.com/questions/149055/how-to-format-numbers-as-currency-strings
- 
+  29) https://stackoverflow.com/questions/149055/how-to-format-numbers-as-currency-strings 
  30) https://stackoverflow.com/questions/55539103/angular-create-is-deprecated-use-new-observable-instead
  31) https://stackoverflow.com/questions/50432928/error-in-multer-image-upload-unexpected-token-in-json-at-position-0-syntaxer
  32) https://www.codeproject.com/Questions/303415/get-file-name-without-extension
  33) https://stackoverflow.com/questions/8489500/how-do-i-subtract-one-week-from-this-date-in-jquery/8489569
  34) https://stackoverflow.com/questions/57583540/javascript-text-input-on-input-text-change-format-to-two-decimal-places
+ 35) https://dev.to/sudo_kaizen/formatting-numbers-in-javascript-with-intl-numberformat-5goo
   
 # 4) Data Science
 
