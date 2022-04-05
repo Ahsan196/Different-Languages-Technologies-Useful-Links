@@ -315,6 +315,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 6) https://stackoverflow.com/questions/32577752/accept-value-greater-than-zero-and-the-value-can-be-even-0-01-or-0-10
 7) https://css-tricks.com/snippets/javascript/move-cursor-to-end-of-input/
 8) https://stackoverflow.com/questions/995183/how-to-allow-only-numeric-0-9-in-html-inputbox-using-jquery
+9) https://stackoverflow.com/questions/22148080/an-invalid-form-control-with-name-is-not-focusable
 
 # 23) Others
 
