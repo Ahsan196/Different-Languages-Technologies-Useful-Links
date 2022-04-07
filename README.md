@@ -262,6 +262,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 17) https://stackoverflow.com/questions/51487818/set-timeout-for-httpclient-get-request
 18) https://blog.logrocket.com/using-sharedpreferences-in-flutter-to-store-data-locally/
 19) https://stackoverflow.com/questions/56851701/how-to-set-cursor-position-at-the-end-of-the-value-in-flutter-in-textfield
+20) https://github.com/flutter/flutter/issues/84784
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
