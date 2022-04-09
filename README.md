@@ -47,27 +47,16 @@
   15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
    
   16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
-
   17) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
- 
   18) https://davidwalsh.name/query-string-javascript
- 
   19) https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript
-  
   20) https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript
-  
   21) https://www.codegrepper.com/code-examples/javascript/replace+special+chars+with+space+in+js
-  
   22) https://stackoverflow.com/questions/18623783/get-the-time-difference-between-two-datetimes
-  
   23) https://www.sitepoint.com/javascript-validate-email-address-regex/
-
   24) https://stackoverflow.com/questions/32540667/moment-js-utc-to-local-time
-  
   25) https://stackoverflow.com/questions/23454975/how-to-convert-hours-and-minutes-to-minutes-with-moment-js
-   
   26) https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom
- 
   27) https://hashnode.com/post/create-an-array-of-objects-from-localstorage-cjuzgdi410008qas1s6udbho2
   28) https://stackoverflow.com/questions/14838199/illegal-continue-statement
   29) https://stackoverflow.com/questions/149055/how-to-format-numbers-as-currency-strings 
@@ -77,6 +66,8 @@
  33) https://stackoverflow.com/questions/8489500/how-do-i-subtract-one-week-from-this-date-in-jquery/8489569
  34) https://stackoverflow.com/questions/57583540/javascript-text-input-on-input-text-change-format-to-two-decimal-places
  35) https://dev.to/sudo_kaizen/formatting-numbers-in-javascript-with-intl-numberformat-5goo
+ 36) https://www.codegrepper.com/code-examples/javascript/generate+random+alphabets+in+javascript
+ 37) https://thewebdev.info/2021/08/29/how-to-generate-a-4-digit-random-number-with-javascript/
   
 # 4) Data Science
 
