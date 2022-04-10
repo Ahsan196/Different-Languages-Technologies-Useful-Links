@@ -379,3 +379,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 
 1) https://www.toolsqa.com/postman/post-request-in-postman/
 2) https://medium.com/@netralizmefod/how-to-test-server-socketio-with-postman-fd8c48852c7d
+
+# 34) Socket.IO
+
+1) https://aaryanadil.com/pass-socket-io-to-express-routes-in-files
