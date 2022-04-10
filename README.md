@@ -321,13 +321,11 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 7) http://dev.yathit.com/ydn-db/doc/setup/limitation.html
 8) http://www.moodle2.tfe.umu.se/pluginfile.php/32062/mod_resource/content/1/Persona%20creation%20-%20George%20Olsen.pdf
 9) https://fontawesome.com/icons/list
-10) https://www.toolsqa.com/postman/post-request-in-postman/
-11) https://stackoverflow.com/questions/45646854/how-we-can-apply-if-else-condition-on-css-properties-using-javascript
-12) https://loading.io/css/
-13) https://support.openrainbow.com/hc/en-us/community/posts/360004135519-Local-HTTP-SERVER-show-This-page-isn-t-working-
-14) https://stackoverflow.com/questions/47068150/how-to-detect-browser-refresh-or-close/47068580
-15) https://www.geeksforgeeks.org/how-to-check-if-a-browser-tab-is-currently-active-or-not/
-
+10) https://stackoverflow.com/questions/45646854/how-we-can-apply-if-else-condition-on-css-properties-using-javascript
+11) https://loading.io/css/
+12) https://support.openrainbow.com/hc/en-us/community/posts/360004135519-Local-HTTP-SERVER-show-This-page-isn-t-working-
+13) https://stackoverflow.com/questions/47068150/how-to-detect-browser-refresh-or-close/47068580
+14) https://www.geeksforgeeks.org/how-to-check-if-a-browser-tab-is-currently-active-or-not/
 
 # 24) Excel
 
@@ -376,3 +374,8 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 1) https://ourcodeworld.com/articles/read/365/how-to-create-a-windows-installer-for-an-application-built-with-electron-framework
 2) https://stackoverflow.com/questions/37828758/electron-js-how-to-minimize-close-window-to-system-tray-and-restore-window-back
 3) https://stackoverflow.com/questions/54684174/how-to-reopen-electron-application-which-in-tray-from-the-dock-or-task-bar-icon
+
+# 33) Postman
+
+1) https://www.toolsqa.com/postman/post-request-in-postman/
+2) https://medium.com/@netralizmefod/how-to-test-server-socketio-with-postman-fd8c48852c7d
