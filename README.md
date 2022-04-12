@@ -45,7 +45,6 @@
   14) https://www.tutorialspoint.com/What-is-the-best-way-to-compare-two-strings-in-JavaScript
   
   15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
-   
   16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
   17) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
   18) https://davidwalsh.name/query-string-javascript
@@ -105,15 +104,12 @@
        https://lnkd.in/eeSmUAY 
        
 xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-model-for-image-classification-b850ca4428d4
-
-xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb
+14) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/Mask_RCNN.ipynb
 
 # 5) NLP
 
   1) https://shravan-kuchkula.github.io/document_similarity/#
-  
   2) https://www.thetopsites.net/article/54771427.shtml
- 
   3) https://www.tensorflow.org/hub/common_issues
 
 # 6) ASP.NET
@@ -136,25 +132,15 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 # 10) Angular
 
  1) https://tburleson-layouts-demos.firebaseapp.com/#/docs
-   
  2) https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/
-  
  3) https://levelup.gitconnected.com/export-data-to-excel-sheet-in-angular-8-7a8e0342643d
- 
  4) https://stackoverflow.com/questions/44580387/how-to-change-material-icon-on-click-event-with-angular2-4-material
-  
  5) https://stackoverflow.com/questions/51949273/how-to-get-row-data-onselect-event-in-ngx-datatable
-   
  6) https://stackoverflow.com/questions/51704888/remove-rows-with-ngx-datatable
-
  7) http://embed.plnkr.co/gfr9IDIAdXEy9Am6B5PB/
-
  8) https://www.itsolutionstuff.com/post/how-to-declare-global-variable-in-angular-8example.html
-  
  9) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
-   
 10) https://blog.angular-university.io/angular-material-dialog/
-  
 11) https://www.npmjs.com/package/ngx-indexed-db
   
 12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
@@ -254,6 +240,7 @@ xiv) https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master
 18) https://blog.logrocket.com/using-sharedpreferences-in-flutter-to-store-data-locally/
 19) https://stackoverflow.com/questions/56851701/how-to-set-cursor-position-at-the-end-of-the-value-in-flutter-in-textfield
 20) https://github.com/flutter/flutter/issues/84784
+21) https://www.evertop.pl/en/how-to-write-a-simple-downloading-app-with-flutter/
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
