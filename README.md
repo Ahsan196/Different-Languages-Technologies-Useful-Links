@@ -371,3 +371,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 34) Socket.IO
 
 1) https://aaryanadil.com/pass-socket-io-to-express-routes-in-files
+
+# 35) Regular Expressions
+
+1) <h6> How to allow to only one dot? </h6> https://stackoverflow.com/questions/28999021/how-to-allow-to-only-one-dot
