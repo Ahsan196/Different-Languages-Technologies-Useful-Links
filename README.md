@@ -374,4 +374,5 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 
 # 35) Regular Expressions
 
-1) <h6> How to allow to only one dot? </h6> https://stackoverflow.com/questions/28999021/how-to-allow-to-only-one-dot
+1) https://regex101.com/
+2) <h6> How to allow to only one dot? </h6> https://stackoverflow.com/questions/28999021/how-to-allow-to-only-one-dot
