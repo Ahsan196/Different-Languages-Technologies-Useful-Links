@@ -356,6 +356,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 1) https://www.codegrepper.com/code-examples/javascript/find+files+in+diretory+nodejs
 2) https://www.loginradius.com/blog/async/run-multiple-nodejs-version-on-the-same-machine/#:~:text=As%20on%20the%20same%20machine,Node%20Version%20Manager%20(NVM).
 3) https://www.section.io/engineering-education/nodejs-mongoosejs-mongodb/
+4) https://stackoverflow.com/questions/11661590/mongoose-query-return-null
 
 # 32) Electron
 
