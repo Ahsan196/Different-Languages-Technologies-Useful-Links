@@ -375,6 +375,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 34) Socket.IO
 
 1) https://aaryanadil.com/pass-socket-io-to-express-routes-in-files
+2) https://www.reddit.com/r/node/comments/de0mvr/waiting_for_a_mongodb_find_query_inside_socketio/
 
 # 35) Regular Expressions
 
