@@ -43,7 +43,6 @@
   13) https://www.golangprograms.com/example-to-take-user-input-and-display-on-screen-using-javascript.html
   
   14) https://www.tutorialspoint.com/What-is-the-best-way-to-compare-two-strings-in-JavaScript
-  
   15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
   16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
   17) https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
@@ -142,7 +141,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
  9) https://stackoverflow.com/questions/51815455/how-to-pass-data-from-angular-material-dialog-to-parent-component
 10) https://blog.angular-university.io/angular-material-dialog/
 11) https://www.npmjs.com/package/ngx-indexed-db
-  
 12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
   
 13) https://www.itsolutionstuff.com/post/how-to-get-current-url-in-angularexample.html
@@ -208,6 +206,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
    3) https://www.npmjs.com/package/mssql#execute-procedure-callback
    4) https://stackoverflow.com/questions/57622704/no-permissions-found-in-manifest-android
    5) https://stackoverflow.com/questions/26609734/how-to-enable-multidexing-with-the-new-android-multidex-support-library
+   6) https://stackoverflow.com/questions/67818612/missing-package-key-attribute-on-element-package-at-androidmanifest-xml115
 
 # 13) NPM Packages
 
