@@ -21,9 +21,7 @@
    1) https://scotch.io/courses/10-need-to-know-javascript-concepts
    2) https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910#:~:text=Named%20Export%3A%20(export),name%20of%20the%20exported%20module
    3) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
- 
    4) https://www.geeksforgeeks.org/number-validation-in-javascript/
- 
    5) https://www.w3resource.com/javascript/form/all-numbers.php
  
    6) https://www.dotnetperls.com/object-js
@@ -245,6 +243,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 24) https://stackoverflow.com/questions/68080593/cannot-find-type-ospermissionsubscriptionstate-in-scope-error-when-using-ones
 25) https://stackoverflow.com/questions/55273101/how-to-change-google-map-apis-my-location-button-postion-in-flutter
 26) https://stackoverflow.com/questions/54172437/flutter-move-floatingactionbutton-up-50-pixels
+27) https://stackoverflow.com/questions/62650216/how-do-i-resolve-as-prefix-in-flutter-error
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
