@@ -243,6 +243,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 22) https://stackoverflow.com/questions/67184531/flutter-willpopscope-with-alertdialog-migration-to-null-safety
 23) https://stackoverflow.com/questions/71443266/dart-flutter-the-method-init-isnt-defined-for-the-type-onesignal
 24) https://stackoverflow.com/questions/68080593/cannot-find-type-ospermissionsubscriptionstate-in-scope-error-when-using-ones
+25) https://stackoverflow.com/questions/55273101/how-to-change-google-map-apis-my-location-button-postion-in-flutter
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
