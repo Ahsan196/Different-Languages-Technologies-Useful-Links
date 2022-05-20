@@ -298,6 +298,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 7) https://css-tricks.com/snippets/javascript/move-cursor-to-end-of-input/
 8) https://stackoverflow.com/questions/995183/how-to-allow-only-numeric-0-9-in-html-inputbox-using-jquery
 9) https://stackoverflow.com/questions/22148080/an-invalid-form-control-with-name-is-not-focusable
+10) https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/#:~:text=The%20href%20attribute%20set%20to,the%20pages%20you%20link%20to
 
 # 23) Others
 
