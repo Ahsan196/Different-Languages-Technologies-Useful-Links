@@ -56,6 +56,7 @@
  36) https://www.codegrepper.com/code-examples/javascript/generate+random+alphabets+in+javascript
  37) https://thewebdev.info/2021/08/29/how-to-generate-a-4-digit-random-number-with-javascript/
  38) https://yogeshchauhan.com/how-to-check-if-a-link-has-http-or-https-in-it-in-javascript/
+ 39) https://www.simplilearn.com/tutorials/javascript-tutorial/email-validation-in-javascript
   
 # 4) Data Science
 
