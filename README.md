@@ -23,23 +23,14 @@
    3) https://www.javatpoint.com/typescript-vs-es6#:~:text=TypeScript%20is%20a%20free%20and,specification%20standardized%20by%20ECMA%20international.&text=Typescript%20is%20to%20eradicate%20the%20development%20errors. 
    4) https://www.geeksforgeeks.org/number-validation-in-javascript/
    5) https://www.w3resource.com/javascript/form/all-numbers.php
- 
    6) https://www.dotnetperls.com/object-js
- 
    7) https://stackoverflow.com/questions/31242701/how-to-check-input-value-has-only-numbers-in-angular
- 
    8) https://stackoverflow.com/questions/4292468/javascript-regex-remove-text-between-parentheses
- 
    9) https://stackoverflow.com/questions/12559208/how-to-remove-comma-from-number-which-comes-dynamically-in-tpl-file
- 
   10) https://stackoverflow.com/questions/27465054/combing-javascript-regex/27465069#27465069
- 
   11) https://www.digitalocean.com/community/tutorials/js-capitalizing-strings
-
   12) https://medium.com/front-end-weekly/3-things-you-didnt-know-about-the-foreach-loop-in-js-ff02cec465b1#:~:text=official%20MDN%20docs%3A-,There%20is%20no%20way%20to%20stop%20or%20break%20a%20forEach,method%20is%20the%20wrong%20tool.
-  
   13) https://www.golangprograms.com/example-to-take-user-input-and-display-on-screen-using-javascript.html
-  
   14) https://www.tutorialspoint.com/What-is-the-best-way-to-compare-two-strings-in-JavaScript
   15) https://howtocreateapps.com/fetch-and-display-json-html-javascript/
   16) https://jayeshkawli.ghost.io/detecting-internet-connection-status-in-javascript/
@@ -64,6 +55,7 @@
  35) https://dev.to/sudo_kaizen/formatting-numbers-in-javascript-with-intl-numberformat-5goo
  36) https://www.codegrepper.com/code-examples/javascript/generate+random+alphabets+in+javascript
  37) https://thewebdev.info/2021/08/29/how-to-generate-a-4-digit-random-number-with-javascript/
+ 38) https://yogeshchauhan.com/how-to-check-if-a-link-has-http-or-https-in-it-in-javascript/
   
 # 4) Data Science
 
