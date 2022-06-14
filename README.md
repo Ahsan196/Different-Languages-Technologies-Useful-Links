@@ -261,6 +261,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 6) https://stackoverflow.com/questions/5004233/jquery-ajax-post-example-with-php
 7) https://p.bdir.in/p/Check-Duplicate-Browser-TabsWindows-With-jQuery---duplicatejs/14863
 8) https://itnext.io/5-ways-to-loop-over-dom-elements-from-queryselectorall-in-javascript-55bd66ca4128
+9) https://stackoverflow.com/questions/14416517/jquery-keyup-function-not-executing
 
 # 19) API
 
