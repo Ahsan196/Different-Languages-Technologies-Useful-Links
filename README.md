@@ -133,7 +133,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 10) https://blog.angular-university.io/angular-material-dialog/
 11) https://www.npmjs.com/package/ngx-indexed-db
 12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
-  
 13) https://www.itsolutionstuff.com/post/how-to-get-current-url-in-angularexample.html
 
 14) https://www.techiediaries.com/angular-material-dialogs/
@@ -237,6 +236,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 25) https://stackoverflow.com/questions/55273101/how-to-change-google-map-apis-my-location-button-postion-in-flutter
 26) https://stackoverflow.com/questions/54172437/flutter-move-floatingactionbutton-up-50-pixels
 27) https://stackoverflow.com/questions/62650216/how-do-i-resolve-as-prefix-in-flutter-error
+28) https://stackoverflow.com/questions/72233476/flutter-error-member-not-found-unicodechar
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
