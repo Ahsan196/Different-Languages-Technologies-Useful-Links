@@ -359,6 +359,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 6) https://stackoverflow.com/questions/17690803/node-js-getaddrinfo-enotfound
 7) https://stackoverflow.com/questions/52621455/typeerror-err-invalid-opt-value-encoding-the-value-ab-txt-is-invalid-for-o
 8) https://stackoverflow.com/questions/53337269/path-js1086-error-enoent-no-such-file-or-directory-uv-cwd
+9) https://stackoverflow.com/questions/35626040/how-to-get-updated-document-back-from-the-findoneandupdate-method
 
 # 32) Electron
 
