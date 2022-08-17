@@ -134,11 +134,8 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 11) https://www.npmjs.com/package/ngx-indexed-db
 12) https://stackoverflow.com/questions/49236726/how-to-remove-whitespace-in-text/49236776
 13) https://www.itsolutionstuff.com/post/how-to-get-current-url-in-angularexample.html
-
 14) https://www.techiediaries.com/angular-material-dialogs/
-
 15) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.component.ts
-
 16) https://www.npmjs.com/package/ngx-indexed-db
   
 17) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
@@ -183,6 +180,8 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
   
 40) https://www.npmjs.com/package/angular-onscreen-material-keyboard
 41) https://virtual-keyboard.js.org/angular/
+42) https://www.angularfix.com/2022/02/how-can-i-make-entire-html-form.html
+43) https://stackoverflow.com/questions/50270359/how-to-add-disable-attribute-on-component-selector
 
 # 11) Icons
 
