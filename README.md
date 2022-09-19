@@ -243,6 +243,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 31) https://flutterhq.com/questions-and-answers/2891/flutter-error-connection-refused-os-error-connection-refused-errno-111-address-localhost-port-36192
 32) https://stackoverflow.com/questions/48017376/keystore-not-found-for-signing-config-release-react-native
 33) https://stackoverflow.com/questions/72049917/firebase-messaging-and-pathprovider-show-warnings-when-running-the-app-flutter
+34) https://stackoverflow.com/questions/31003528/package-import-target-of-uri-does-not-exists
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
