@@ -197,6 +197,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
    4) https://stackoverflow.com/questions/57622704/no-permissions-found-in-manifest-android
    5) https://stackoverflow.com/questions/26609734/how-to-enable-multidexing-with-the-new-android-multidex-support-library
    6) https://stackoverflow.com/questions/67818612/missing-package-key-attribute-on-element-package-at-androidmanifest-xml115
+   7) https://stackoverflow.com/questions/6211919/errorkeytool-is-not-recognized-as-an-internal-or-external-command-operable-p
 
 # 13) NPM Packages
 
@@ -240,6 +241,8 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 29) https://stackoverflow.com/questions/62910520/error-on-line-1-column-1-of-pubspec-lock-unexpected-character
 30) https://stackoverflow.com/questions/49651673/converting-string-to-map-in-dart
 31) https://flutterhq.com/questions-and-answers/2891/flutter-error-connection-refused-os-error-connection-refused-errno-111-address-localhost-port-36192
+32) https://stackoverflow.com/questions/48017376/keystore-not-found-for-signing-config-release-react-native
+33) https://stackoverflow.com/questions/72049917/firebase-messaging-and-pathprovider-show-warnings-when-running-the-app-flutter
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
