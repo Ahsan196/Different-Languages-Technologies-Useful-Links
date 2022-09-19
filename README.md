@@ -244,6 +244,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 32) https://stackoverflow.com/questions/48017376/keystore-not-found-for-signing-config-release-react-native
 33) https://stackoverflow.com/questions/72049917/firebase-messaging-and-pathprovider-show-warnings-when-running-the-app-flutter
 34) https://stackoverflow.com/questions/31003528/package-import-target-of-uri-does-not-exists
+35) https://stackoverflow.com/questions/71261321/flutter-app-running-on-web-failing-with-error
 
 # 16) Web
 1) https://developer.mozilla.org/en-US/docs/Web/API/IDBFactory#deleteDatabase
