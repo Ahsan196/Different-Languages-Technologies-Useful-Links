@@ -290,6 +290,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 2) https://www.homeandlearn.co.uk/csharp/csharp_s13p1.html
 3) https://ahsanraza498.medium.com/top-5-tips-for-any-c-developer-caaa8a621dc9
 4) https://www.c-sharpcorner.com/article/dynamic-search-in-datagridview/
+5) https://www.codegrepper.com/code-examples/csharp/convert+char+digit+to+int+c+sharp
 
 # 22) HTML
 
