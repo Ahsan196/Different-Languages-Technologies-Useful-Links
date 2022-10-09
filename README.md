@@ -200,6 +200,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
    7) https://stackoverflow.com/questions/6211919/errorkeytool-is-not-recognized-as-an-internal-or-external-command-operable-p
    8) https://stackoverflow.com/questions/40080710/no-key-with-alias-found-in-keystore
    9) https://stackoverflow.com/questions/46177560/failed-to-read-png-signature-file-does-not-start-with-png-signature
+   10) https://stackoverflow.com/questions/9357668/how-to-store-image-in-sqlite-database
 
 # 13) NPM Packages
 
