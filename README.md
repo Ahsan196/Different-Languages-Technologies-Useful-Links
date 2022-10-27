@@ -404,3 +404,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 37) Koa
 
 1) https://stackoverflow.com/questions/71283981/koajs-cant-handle-post-requests-on-cloudfunctions
+
+# 38) SQL Server
+
+1) https://stackoverflow.com/questions/17273021/windows-could-not-start-the-sql-server-mssqlserver-on-local-computer-error
