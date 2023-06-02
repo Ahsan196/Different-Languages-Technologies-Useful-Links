@@ -14,7 +14,9 @@
 
 # 2) React/ReactJS/React.js
    
-   i) https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/
+   1) https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/
+   2) https://stackoverflow.com/questions/44270504/react-native-ios-and-android-folders-not-present
+   
 
 # 3) Javascript
    
