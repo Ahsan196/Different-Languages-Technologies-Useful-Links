@@ -140,7 +140,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 14) https://www.techiediaries.com/angular-material-dialogs/
 15) https://stackblitz.com/edit/angular-ajbnta?file=src%2Fapp%2Fdialogs.component.ts
 16) https://www.npmjs.com/package/ngx-indexed-db
-  
 17) https://flaviocopes.com/how-to-convert-string-to-number-javascript/
 
 18) https://stackoverflow.com/questions/52143052/how-to-manually-set-focus-on-mat-form-field-in-angular-6/54230643#54230643
@@ -185,6 +184,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 41) https://virtual-keyboard.js.org/angular/
 42) https://www.angularfix.com/2022/02/how-can-i-make-entire-html-form.html
 43) https://stackoverflow.com/questions/50270359/how-to-add-disable-attribute-on-component-selector
+44) https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular
 
 # 11) Icons
 
