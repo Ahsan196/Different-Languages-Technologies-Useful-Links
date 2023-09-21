@@ -411,3 +411,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 38) SQL Server
 
 1) https://stackoverflow.com/questions/17273021/windows-could-not-start-the-sql-server-mssqlserver-on-local-computer-error
+
+# 39) Laravel
+
+1) https://www.digitalocean.com/community/tutorials/how-to-use-migrations-to-create-and-manage-database-tables-in-laravel
