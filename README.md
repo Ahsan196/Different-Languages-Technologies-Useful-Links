@@ -416,3 +416,4 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 
 1) https://www.digitalocean.com/community/tutorials/how-to-use-migrations-to-create-and-manage-database-tables-in-laravel
 2) https://www.tutsmake.com/laravel-8-socialite-google-login-example-tutorial/
+3) https://stackoverflow.com/questions/63807930/error-target-class-controller-does-not-exist-when-using-laravel-8
