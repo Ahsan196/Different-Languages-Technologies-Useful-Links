@@ -419,3 +419,4 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 3) https://stackoverflow.com/questions/63807930/error-target-class-controller-does-not-exist-when-using-laravel-8
 4) https://www.tutsmake.com/how-to-call-external-api-in-laravel/
 5) https://stackoverflow.com/questions/70335302/how-to-get-details-of-the-public-key-generated-using-laravel-passport
+6) https://towardsdev.com/rest-api-login-register-with-sanctum-laravel-9218ac483bbe
