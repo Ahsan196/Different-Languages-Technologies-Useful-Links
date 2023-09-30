@@ -418,3 +418,4 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 2) https://www.tutsmake.com/laravel-8-socialite-google-login-example-tutorial/
 3) https://stackoverflow.com/questions/63807930/error-target-class-controller-does-not-exist-when-using-laravel-8
 4) https://www.tutsmake.com/how-to-call-external-api-in-laravel/
+5) https://stackoverflow.com/questions/70335302/how-to-get-details-of-the-public-key-generated-using-laravel-passport
