@@ -413,7 +413,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 1) https://stackoverflow.com/questions/17273021/windows-could-not-start-the-sql-server-mssqlserver-on-local-computer-error
 2) https://stackoverflow.com/questions/4849652/find-all-tables-containing-column-with-specified-name-ms-sql-server
    
-
 # 39) Laravel
 
 1) https://www.digitalocean.com/community/tutorials/how-to-use-migrations-to-create-and-manage-database-tables-in-laravel
@@ -422,3 +421,8 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 4) https://www.tutsmake.com/how-to-call-external-api-in-laravel/
 5) https://stackoverflow.com/questions/70335302/how-to-get-details-of-the-public-key-generated-using-laravel-passport
 6) https://towardsdev.com/rest-api-login-register-with-sanctum-laravel-9218ac483bbe
+
+# 40) Go
+
+1) https://www.youtube.com/watch?v=cmSSm0uZMec
+2) https://www.youtube.com/watch?v=H0HZc4FgX7E
