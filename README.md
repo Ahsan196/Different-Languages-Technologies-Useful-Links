@@ -426,3 +426,4 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 
 1) https://www.youtube.com/watch?v=cmSSm0uZMec
 2) https://www.youtube.com/watch?v=H0HZc4FgX7E
+3) https://stackoverflow.com/questions/57063411/go-smtp-unable-to-send-email-through-gmail-getting-eof
