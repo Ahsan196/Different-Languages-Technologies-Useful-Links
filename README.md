@@ -428,7 +428,9 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 2) https://www.youtube.com/watch?v=H0HZc4FgX7E
 3) https://stackoverflow.com/questions/57063411/go-smtp-unable-to-send-email-through-gmail-getting-eof
 4) https://stackoverflow.com/questions/17714494/golang-http-request-results-in-eof-errors-when-making-multiple-requests-successi
-
+5) https://stackoverflow.com/questions/38414949/right-pattern-for-returning-slice-of-structs-from-function-in-golang
+6) https://stackoverflow.com/questions/50697914/return-nil-for-a-struct-in-go
+   
 # 41) Mailtrap
 
 1) https://laracasts.com/discuss/channels/laravel/the-mail-didnt-send-to-my-gmail
