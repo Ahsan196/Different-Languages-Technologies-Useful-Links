@@ -430,6 +430,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 4) https://stackoverflow.com/questions/17714494/golang-http-request-results-in-eof-errors-when-making-multiple-requests-successi
 5) https://stackoverflow.com/questions/38414949/right-pattern-for-returning-slice-of-structs-from-function-in-golang
 6) https://stackoverflow.com/questions/50697914/return-nil-for-a-struct-in-go
+7) https://www.golangprograms.com/add-n-number-of-year-month-day-hour-minute-second-millisecond-microsecond-and-nanosecond-to-current-date-time.html
    
 # 41) Mailtrap
 
