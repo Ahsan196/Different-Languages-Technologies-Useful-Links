@@ -177,14 +177,15 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 37) https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage
 38) https://stackoverflow.com/questions/45934244/multiple-autocomplete-in-same-page-with-different-source-in-angular-4-with-angul/45934330
 39) https://www.freakyjolly.com/switch-multiple-languages-i18n-using-ngx-translate-in-angular-12/
+40) https://stackoverflow.com/questions/69398406/angular-route-resolver-executing-multiple-times-with-rapid-clicking
  
 ### On Screen Keyboard
   
-40) https://www.npmjs.com/package/angular-onscreen-material-keyboard
-41) https://virtual-keyboard.js.org/angular/
-42) https://www.angularfix.com/2022/02/how-can-i-make-entire-html-form.html
-43) https://stackoverflow.com/questions/50270359/how-to-add-disable-attribute-on-component-selector
-44) https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular
+41) https://www.npmjs.com/package/angular-onscreen-material-keyboard
+42) https://virtual-keyboard.js.org/angular/
+43) https://www.angularfix.com/2022/02/how-can-i-make-entire-html-form.html
+44) https://stackoverflow.com/questions/50270359/how-to-add-disable-attribute-on-component-selector
+45) https://www.telerik.com/blogs/fixing-cant-bind-to-formgroup-since-not-known-property-of-form-error-angular
 
 # 11) Icons
 
