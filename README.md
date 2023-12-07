@@ -436,3 +436,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 41) Mailtrap
 
 1) https://laracasts.com/discuss/channels/laravel/the-mail-didnt-send-to-my-gmail
+
+# 42) Webpack
+
+1) https://stackoverflow.com/questions/69394632/webpack-build-failing-with-err-ossl-evp-unsupported
