@@ -16,6 +16,7 @@
    
    1) https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/
    2) https://stackoverflow.com/questions/44270504/react-native-ios-and-android-folders-not-present
+   3) https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
    
 
 # 3) Javascript
