@@ -441,3 +441,5 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 42) Webpack
 
 1) https://stackoverflow.com/questions/69394632/webpack-build-failing-with-err-ossl-evp-unsupported
+
+https://github.com/desktop/desktop/issues/10326
