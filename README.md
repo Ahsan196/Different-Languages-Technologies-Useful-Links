@@ -442,4 +442,8 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 
 1) https://stackoverflow.com/questions/69394632/webpack-build-failing-with-err-ossl-evp-unsupported
 
+# 43) Typescript
+
+1) https://bobbyhadz.com/blog/typescript-object-literal-may-only-specify-known-properties
+
 https://github.com/desktop/desktop/issues/10326
