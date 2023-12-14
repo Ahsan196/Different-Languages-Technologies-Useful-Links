@@ -445,5 +445,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 # 43) Typescript
 
 1) https://bobbyhadz.com/blog/typescript-object-literal-may-only-specify-known-properties
+2) https://bobbyhadz.com/blog/react-typescript-usestate-array-of-objects#:~:text=%23%20Type%20useState%20as%20Array%20of%20Objects%20in%20React%20TypeScript,objects%20of%20the%20specified%20type.
 
 https://github.com/desktop/desktop/issues/10326
