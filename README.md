@@ -447,4 +447,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 1) https://bobbyhadz.com/blog/typescript-object-literal-may-only-specify-known-properties
 2) https://bobbyhadz.com/blog/react-typescript-usestate-array-of-objects#:~:text=%23%20Type%20useState%20as%20Array%20of%20Objects%20in%20React%20TypeScript,objects%20of%20the%20specified%20type.
 
-https://github.com/desktop/desktop/issues/10326
+# 44) Git
+1) https://github.com/desktop/desktop/issues/10326
+2) https://stackoverflow.com/questions/41045548/merging-changes-from-master-into-my-branch
