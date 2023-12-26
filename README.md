@@ -19,6 +19,7 @@
    3) https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
    4) https://stackoverflow.com/questions/44991656/no-restricted-globals
    5) https://github.com/mui/material-ui/issues/17010
+   6) https://stackoverflow.com/questions/37620694/how-to-scroll-to-bottom-in-react
 
 # 3) Javascript
    
