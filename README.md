@@ -20,6 +20,7 @@
    4) https://stackoverflow.com/questions/44991656/no-restricted-globals
    5) https://github.com/mui/material-ui/issues/17010
    6) https://stackoverflow.com/questions/37620694/how-to-scroll-to-bottom-in-react
+   7) https://github.com/facebook/create-react-app/discussions/10095
 
 # 3) Javascript
    
@@ -451,4 +452,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 
 # 44) Git
 1) https://github.com/desktop/desktop/issues/10326
-2) https://stackoverflow.com/questions/41045548/merging-changes-from-master-into-my-branch
+2) https://stackoverflow.com/questions/41045548/merging-changes-from-master-into-my-branch'
+
+# 45) SurveyJS
+1) https://surveyjs.io/stay-updated/release-notes/v1.9.111#a-workaround-for-a-postcss-parsing-bug-is-no-longer-required
