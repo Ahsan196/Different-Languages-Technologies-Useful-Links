@@ -21,6 +21,7 @@
    5) https://github.com/mui/material-ui/issues/17010
    6) https://stackoverflow.com/questions/37620694/how-to-scroll-to-bottom-in-react
    7) https://github.com/facebook/create-react-app/discussions/10095
+   8) https://stackoverflow.com/questions/71863372/rendering-multiple-instances-of-the-same-component-react
 
 # 3) Javascript
    
