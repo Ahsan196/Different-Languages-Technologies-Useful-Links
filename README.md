@@ -67,6 +67,7 @@
  38) https://yogeshchauhan.com/how-to-check-if-a-link-has-http-or-https-in-it-in-javascript/
  39) https://www.simplilearn.com/tutorials/javascript-tutorial/email-validation-in-javascript
  40) https://www.codegrepper.com/code-examples/javascript/moment+get+day+from+date
+ 41) https://stackoverflow.com/questions/64198372/why-map-function-always-returns-something-even-if-condition-statement-does-not
   
 # 4) Data Science
 
