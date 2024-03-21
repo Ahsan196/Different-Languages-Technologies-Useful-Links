@@ -268,6 +268,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 4) https://stackoverflow.com/questions/25922776/how-to-realize-when-a-browser-tab-has-been-duplicated
 5) https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca?gi=a248fadb7798
 6) https://blog.guya.net/2015/06/12/sharing-sessionstorage-between-tabs-for-secure-multi-tab-authentication/
+7) https://stackoverflow.com/questions/34130277/speechsynthesisutterance-chrome-issue?rq=3
 
 # 17) Mobile Apps
 
