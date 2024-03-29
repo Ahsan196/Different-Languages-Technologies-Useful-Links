@@ -24,6 +24,7 @@
    8) https://stackoverflow.com/questions/71863372/rendering-multiple-instances-of-the-same-component-react
    9) https://blog.logrocket.com/3-ways-implement-typing-animation-react/
   10) https://stackoverflow.com/questions/62032050/how-to-remove-query-param-with-react-hooks
+  11) https://github.com/creativetimofficial/ct-material-kit-pro-react/issues/81
 
 # 3) Javascript
    
