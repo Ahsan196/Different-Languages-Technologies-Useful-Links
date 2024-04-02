@@ -462,3 +462,6 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 
 # 45) SurveyJS
 1) https://surveyjs.io/stay-updated/release-notes/v1.9.111#a-workaround-for-a-postcss-parsing-bug-is-no-longer-required
+
+# 46) Google Analytics 
+1) https://stackoverflow.com/questions/73713428/how-to-tracking-email-opens-in-ga4
