@@ -69,6 +69,7 @@
  39) https://www.simplilearn.com/tutorials/javascript-tutorial/email-validation-in-javascript
  40) https://www.codegrepper.com/code-examples/javascript/moment+get+day+from+date
  41) https://stackoverflow.com/questions/64198372/why-map-function-always-returns-something-even-if-condition-statement-does-not
+ 42) https://stackoverflow.com/questions/71818085/optional-chaining-in-javascript-returns-undefined-instead-of-null-when-the-varia
   
 # 4) Data Science
 
