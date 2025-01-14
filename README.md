@@ -472,3 +472,4 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 1) https://code-maze.com/aspnetcore-using-kafka-in-a-web-api/
 2) https://kamil-zakiev.medium.com/kafka-producer-api-c-4d370d9b9e4a
 3) https://medium.com/simform-engineering/kafka-unleashed-a-comprehensive-guide-to-setting-up-kafka-fb607d5d37b4
+4) https://stackoverflow.com/questions/57464072/how-to-use-partitions-in-order-to-parallel-consume-one-topic-in-kafka-with-net
