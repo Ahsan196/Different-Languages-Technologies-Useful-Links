@@ -474,3 +474,9 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 3) https://medium.com/simform-engineering/kafka-unleashed-a-comprehensive-guide-to-setting-up-kafka-fb607d5d37b4
 4) https://stackoverflow.com/questions/57464072/how-to-use-partitions-in-order-to-parallel-consume-one-topic-in-kafka-with-net
 5) https://dotnetfullstackdev.medium.com/building-a-scalable-kafka-consumer-in-net-core-without-duplicates-a-complete-guide-09340037b6bc
+
+# 48) MediatR
+
+1) https://www.youtube.com/watch?v=z6ZKAoUL4QE
+2) https://www.youtube.com/watch?v=ydISpffv3Fc
+3) https://thecodeman.net/posts/mediatr-pipeline-behavior
