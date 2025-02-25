@@ -300,7 +300,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 1) Activating GD Library: https://www.youtube.com/watch?v=NJWwKj22n94
 2) https://stackoverflow.com/questions/9816889/how-to-echo-or-print-an-array-in-php
 
-# 21) C#
+# 21) C# (.NET)
 
 1) https://stackoverflow.com/questions/45653884/how-to-add-new-win-form-in-project-c
 2) https://www.homeandlearn.co.uk/csharp/csharp_s13p1.html
@@ -308,6 +308,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 4) https://www.c-sharpcorner.com/article/dynamic-search-in-datagridview/
 5) https://www.codegrepper.com/code-examples/csharp/convert+char+digit+to+int+c+sharp
 6) https://stackoverflow.com/questions/972307/how-to-loop-through-all-enum-values-in-c
+7) https://github.com/FastEndpoints/FastEndpoints/issues/77
 
 # 22) HTML
 
