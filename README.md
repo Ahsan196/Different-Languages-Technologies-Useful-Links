@@ -309,6 +309,7 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 5) https://www.codegrepper.com/code-examples/csharp/convert+char+digit+to+int+c+sharp
 6) https://stackoverflow.com/questions/972307/how-to-loop-through-all-enum-values-in-c
 7) https://github.com/FastEndpoints/FastEndpoints/issues/77
+8) https://stackoverflow.com/questions/21461905/how-to-parse-odata-filter-with-regular-expression-in-c
 
 # 22) HTML
 
