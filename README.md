@@ -11,7 +11,6 @@
   9) https://www.geeksforgeeks.org/python-pandas-series-between/
  10) https://stackoverflow.com/questions/38333954/converting-object-to-datetime-format-in-python
 
-
 # 2) React/ReactJS/React.js
    
    1) https://www.freecodecamp.org/news/this-is-why-we-need-to-bind-event-handlers-in-class-components-in-react-f7ea1a6f93eb/
@@ -311,6 +310,8 @@ xiii) https://towardsdatascience.com/how-to-choose-the-best-keras-pre-trained-mo
 7) https://github.com/FastEndpoints/FastEndpoints/issues/77
 8) https://stackoverflow.com/questions/21461905/how-to-parse-odata-filter-with-regular-expression-in-c
 9) https://stackoverflow.com/questions/27775279/odata-datetime-filter-edm-string-error
+10) https://stackoverflow.com/questions/25668344/get-linq-expression-from-filterqueryoption-throw-clr-exception/25811099
+11) https://d-fens.ch/2017/03/01/converting-odataqueryoptions-into-linq-expressions-in-c/
 
 # 22) HTML
 
